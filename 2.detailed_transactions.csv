@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Customer_Name,Transaction_Type,Product_Service,Amount,Tax,Payment_Method,Location,Account_Category,Notes
+TXN-2000,2025-02-12,Karen Carter,Income,Flour Sale,64542,10972.14,Card,Karachi,Revenue,Paid to supplier
+TXN-2001,2025-04-13,Diana David,Capital,Partner Fund,97846,0.0,Card,Faisalabad,Equity,Marketing campaign
+TXN-2002,2025-02-05,Kathleen Pearson,Refund,Supplier Refund,96367,0.0,Cash,Lahore,Revenue Adjustment,Paid to supplier
+TXN-2003,2025-03-19,Seth Bruce,Expense,Marketing,35828,0.0,Bank Transfer,Islamabad,Administrative Expense,Paid to supplier
+TXN-2004,2025-02-10,Luke Wright,Asset,Vehicle Purchase,61760,0.0,Bank Transfer,Faisalabad,Current Asset,Refund processed
+TXN-2005,2025-03-05,Whitney White,Income,Rice Sale,38113,6479.21,Cash,Karachi,Revenue,Loan installment
+TXN-2006,2025-02-06,William White,Refund,Customer Refund,43350,0.0,Card,Lahore,Revenue Adjustment,New equipment
+TXN-2007,2025-02-20,Michelle Barber,Income,Oil Sale,34193,5812.81,Cash,Islamabad,Revenue,Loan installment
+TXN-2008,2025-03-20,Joseph Peterson,Expense,Marketing,73703,0.0,Cheque,Karachi,Operating Expense,Loan installment
+TXN-2009,2025-03-04,Kimberly Waller,Income,Wheat Sale,10576,1797.92,Card,Lahore,Revenue,New equipment
+TXN-2010,2025-02-23,Monique Harris,Liability,Utility Bill Due,67928,0.0,Bank Transfer,Lahore,Short-term Liability,Marketing campaign
+TXN-2011,2025-01-22,Michael Khan,Expense,Shop Rent,31494,0.0,Card,Faisalabad,Operating Expense,New equipment
+TXN-2012,2025-02-14,Timothy Pope DDS,Liability,Bank Loan,9853,0.0,Bank Transfer,Karachi,Long-term Liability,New equipment
+TXN-2013,2025-04-01,Destiny Bailey,Refund,Customer Refund,47344,0.0,Cash,Faisalabad,Revenue Adjustment,Refund processed
+TXN-2014,2025-03-05,Julie Turner,Refund,Customer Refund,67197,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,Paid to supplier
+TXN-2015,2025-01-30,Kimberly Perry,Expense,Shop Rent,95069,0.0,Card,Islamabad,Administrative Expense,Refund processed
+TXN-2016,2025-02-24,Karl Turner,Capital,Partner Fund,83731,0.0,Card,Lahore,Equity,Refund processed
+TXN-2017,2025-01-31,Luis Larsen,Income,Oil Sale,49392,8396.64,Card,Karachi,Revenue,New equipment
+TXN-2018,2025-02-14,Danielle Sutton,Asset,Shop Inventory,67205,0.0,Card,Islamabad,Current Asset,Monthly bill
+TXN-2019,2025-03-25,Martin Johnson,Capital,Owner Investment,38271,0.0,Cheque,Faisalabad,Equity,Customer advance
+TXN-2020,2025-02-12,Rhonda Williamson,Expense,Shop Rent,88710,0.0,Card,Lahore,Administrative Expense,Monthly bill
+TXN-2021,2025-02-02,Jennifer Hobbs,Expense,Shop Rent,45543,0.0,Cheque,Faisalabad,Administrative Expense,Refund processed
+TXN-2022,2025-01-18,Victoria Mosley,Expense,Electricity Bill,33176,0.0,Cheque,Islamabad,Operating Expense,New equipment
+TXN-2023,2025-02-17,Steven Smith,Liability,Utility Bill Due,12674,0.0,Cheque,Karachi,Short-term Liability,Paid to supplier
+TXN-2024,2025-02-20,Adam Robinson,Capital,Partner Fund,7491,0.0,Card,Faisalabad,Equity,Loan installment
+TXN-2025,2025-02-07,Brett Fisher,Capital,Owner Investment,76109,0.0,Cash,Islamabad,Equity,New equipment
+TXN-2026,2025-03-05,Lauren Snyder,Refund,Supplier Refund,8361,0.0,Cheque,Islamabad,Revenue Adjustment,Marketing campaign
+TXN-2027,2025-02-10,Robin Grant,Capital,Partner Fund,18196,0.0,Card,Lahore,Equity,Refund processed
+TXN-2028,2025-02-05,Michael Howard,Asset,Shop Inventory,60095,0.0,Bank Transfer,Islamabad,Fixed Asset,Monthly bill
+TXN-2029,2025-02-07,Ashley Daniels,Expense,Marketing,305,0.0,Cash,Karachi,Operating Expense,Refund processed
+TXN-2030,2025-03-27,Norma Luna,Capital,Shareholder Equity,30491,0.0,Cheque,Islamabad,Equity,Monthly bill
+TXN-2031,2025-03-28,Kimberly Lane,Refund,Supplier Refund,93782,0.0,Card,Karachi,Revenue Adjustment,Refund processed
+TXN-2032,2025-01-29,Lori Curtis,Income,Sugar Sale,82051,13948.67,Bank Transfer,Karachi,Revenue,Monthly bill
+TXN-2033,2025-02-02,Brittany Robinson,Expense,Staff Salary,66247,0.0,Cash,Lahore,Administrative Expense,Paid to supplier
+TXN-2034,2025-02-02,Michele Lopez,Liability,Supplier Credit,7053,0.0,Bank Transfer,Faisalabad,Long-term Liability,Loan installment
+TXN-2035,2025-03-04,Jamie Terry,Expense,Staff Salary,28954,0.0,Cash,Lahore,Operating Expense,Customer advance
+TXN-2036,2025-02-16,Ryan Diaz,Liability,Supplier Credit,91800,0.0,Cash,Karachi,Long-term Liability,Loan installment
+TXN-2037,2025-02-26,Jeffery Rodriguez,Liability,Tax Payable,83630,0.0,Bank Transfer,Faisalabad,Short-term Liability,Loan installment
+TXN-2038,2025-02-03,Anthony Gonzalez,Liability,Tax Payable,22292,0.0,Card,Lahore,Long-term Liability,Customer advance
+TXN-2039,2025-04-07,Jason Nelson,Liability,Tax Payable,13097,0.0,Card,Karachi,Short-term Liability,Paid to supplier
+TXN-2040,2025-02-06,Mr. Charles Miller,Capital,Owner Investment,24679,0.0,Cheque,Lahore,Equity,New equipment
+TXN-2041,2025-03-25,Cynthia Lara,Income,Sugar Sale,21830,3711.1,Cheque,Islamabad,Revenue,Marketing campaign
+TXN-2042,2025-02-06,Michele Rogers,Income,Sugar Sale,24851,4224.67,Card,Islamabad,Revenue,Refund processed
+TXN-2043,2025-03-11,Teresa Smith,Income,Oil Sale,65553,11144.01,Bank Transfer,Lahore,Revenue,Monthly bill
+TXN-2044,2025-01-23,Nicole Mcmillan,Expense,Shop Rent,66450,0.0,Card,Lahore,Administrative Expense,Customer advance
+TXN-2045,2025-03-16,Tyler Hodge,Income,Sugar Sale,44475,7560.75,Bank Transfer,Karachi,Revenue,Paid to supplier
+TXN-2046,2025-04-08,Sandra Evans,Income,Flour Sale,80245,13641.65,Cash,Faisalabad,Revenue,Monthly bill
+TXN-2047,2025-01-26,Jeffrey Middleton,Capital,Owner Investment,77446,0.0,Card,Islamabad,Equity,Loan installment
+TXN-2048,2025-04-15,Donald Boyer,Refund,Supplier Refund,27246,0.0,Card,Faisalabad,Revenue Adjustment,New equipment
+TXN-2049,2025-02-03,Natalie Gentry,Income,Sugar Sale,78896,13412.32,Card,Islamabad,Revenue,Loan installment
+TXN-2050,2025-03-04,Anthony Hanna,Income,Oil Sale,29030,4935.1,Cheque,Lahore,Revenue,Customer advance
+TXN-2051,2025-02-02,Scott Gregory,Asset,New Machinery,52432,0.0,Bank Transfer,Karachi,Current Asset,Marketing campaign
+TXN-2052,2025-04-14,Chris Burnett,Expense,Staff Salary,52915,0.0,Bank Transfer,Faisalabad,Administrative Expense,Paid to supplier
+TXN-2053,2025-03-17,Jennifer Carey,Income,Wheat Sale,549,93.33,Cash,Faisalabad,Revenue,Paid to supplier
+TXN-2054,2025-02-10,Alexander Tucker,Asset,Vehicle Purchase,23904,0.0,Bank Transfer,Lahore,Current Asset,Customer advance
+TXN-2055,2025-02-17,Melissa Williams,Capital,Owner Investment,72083,0.0,Cash,Islamabad,Equity,Customer advance
+TXN-2056,2025-03-26,Jessica Hernandez,Capital,Shareholder Equity,22789,0.0,Bank Transfer,Lahore,Equity,Loan installment
+TXN-2057,2025-01-27,Veronica Collins,Refund,Customer Refund,56495,0.0,Cheque,Lahore,Revenue Adjustment,New equipment
+TXN-2058,2025-02-27,Jo Mckinney,Liability,Bank Loan,452,0.0,Cheque,Lahore,Long-term Liability,Loan installment
+TXN-2059,2025-02-07,Bruce Caldwell,Expense,Shop Rent,28274,0.0,Card,Faisalabad,Operating Expense,Loan installment
+TXN-2060,2025-04-08,John Burke,Asset,Furniture,35366,0.0,Card,Lahore,Fixed Asset,Loan installment
+TXN-2061,2025-02-24,Cody Foster,Liability,Utility Bill Due,44787,0.0,Bank Transfer,Karachi,Long-term Liability,Marketing campaign
+TXN-2062,2025-04-07,Taylor Long,Income,Oil Sale,36907,6274.19,Cheque,Faisalabad,Revenue,Loan installment
+TXN-2063,2025-03-24,Kevin Turner,Liability,Utility Bill Due,85368,0.0,Cash,Lahore,Long-term Liability,Monthly bill
+TXN-2064,2025-02-25,Rodney Daniel,Asset,Shop Inventory,78340,0.0,Card,Lahore,Fixed Asset,Customer advance
+TXN-2065,2025-03-23,Pamela Garcia,Refund,Supplier Refund,19044,0.0,Card,Lahore,Revenue Adjustment,Monthly bill
+TXN-2066,2025-03-12,Elizabeth Ingram,Income,Wheat Sale,59953,10192.01,Card,Karachi,Revenue,Marketing campaign
+TXN-2067,2025-04-15,Tiffany Ray,Income,Flour Sale,18493,3143.81,Cheque,Lahore,Revenue,Refund processed
+TXN-2068,2025-01-25,Miss Elizabeth Clark,Capital,Owner Investment,15293,0.0,Card,Karachi,Equity,Marketing campaign
+TXN-2069,2025-02-16,Janet Day,Liability,Tax Payable,36324,0.0,Cheque,Islamabad,Long-term Liability,Marketing campaign
+TXN-2070,2025-02-12,Richard Scott,Expense,Supplier Payment,69087,0.0,Bank Transfer,Faisalabad,Administrative Expense,Paid to supplier
+TXN-2071,2025-02-25,Jessica York,Income,Wheat Sale,36645,6229.65,Bank Transfer,Lahore,Revenue,Monthly bill
+TXN-2072,2025-03-14,Dawn Fox,Expense,Staff Salary,83678,0.0,Cash,Lahore,Administrative Expense,Monthly bill
+TXN-2073,2025-03-05,Eric Diaz,Liability,Supplier Credit,84082,0.0,Bank Transfer,Islamabad,Long-term Liability,Monthly bill
+TXN-2074,2025-02-12,Michael James,Asset,New Machinery,95587,0.0,Cash,Karachi,Fixed Asset,Refund processed
+TXN-2075,2025-02-13,Vincent Mcclure,Expense,Shop Rent,88536,0.0,Bank Transfer,Lahore,Operating Expense,Marketing campaign
+TXN-2076,2025-01-17,Cynthia Cunningham,Refund,Customer Refund,95241,0.0,Cheque,Faisalabad,Revenue Adjustment,Monthly bill
+TXN-2077,2025-01-25,Kenneth Jackson,Liability,Tax Payable,15050,0.0,Cash,Karachi,Short-term Liability,Monthly bill
+TXN-2078,2025-03-16,David Evans,Liability,Tax Payable,78998,0.0,Cash,Faisalabad,Long-term Liability,Loan installment
+TXN-2079,2025-02-19,James Fischer,Asset,Furniture,99159,0.0,Cash,Faisalabad,Current Asset,Monthly bill
+TXN-2080,2025-04-04,Ashley Smith,Asset,New Machinery,19451,0.0,Cash,Karachi,Current Asset,Refund processed
+TXN-2081,2025-02-01,Thomas Montoya,Liability,Supplier Credit,62432,0.0,Cash,Lahore,Short-term Liability,Refund processed
+TXN-2082,2025-02-15,Andrea Wright,Capital,Owner Investment,71890,0.0,Cheque,Karachi,Equity,Refund processed
+TXN-2083,2025-04-09,Deborah Adams,Refund,Supplier Refund,42541,0.0,Cash,Faisalabad,Revenue Adjustment,New equipment
+TXN-2084,2025-04-09,Nicole Dickson,Expense,Marketing,14152,0.0,Cash,Faisalabad,Operating Expense,Monthly bill
+TXN-2085,2025-02-23,Steven Keller,Capital,Partner Fund,12338,0.0,Card,Faisalabad,Equity,New equipment
+TXN-2086,2025-02-17,Cheyenne Hines,Capital,Owner Investment,13185,0.0,Bank Transfer,Lahore,Equity,Marketing campaign
+TXN-2087,2025-03-10,Shawn Morales,Refund,Supplier Refund,21017,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,Loan installment
+TXN-2088,2025-04-16,Robert Rose,Asset,Vehicle Purchase,71252,0.0,Card,Faisalabad,Fixed Asset,Loan installment
+TXN-2089,2025-03-17,Melanie Clark,Capital,Owner Investment,68756,0.0,Cheque,Faisalabad,Equity,New equipment
+TXN-2090,2025-02-06,Tara Rodriguez,Capital,Partner Fund,16103,0.0,Cash,Islamabad,Equity,Customer advance
+TXN-2091,2025-03-19,Catherine Mcpherson,Refund,Customer Refund,16278,0.0,Cheque,Lahore,Revenue Adjustment,Monthly bill
+TXN-2092,2025-02-16,Alison Gallagher,Liability,Utility Bill Due,45281,0.0,Card,Islamabad,Long-term Liability,Marketing campaign
+TXN-2093,2025-02-10,Richard Palmer,Asset,Furniture,87947,0.0,Cheque,Karachi,Current Asset,Loan installment
+TXN-2094,2025-03-15,Brett Cook,Liability,Bank Loan,21401,0.0,Cheque,Faisalabad,Long-term Liability,New equipment
+TXN-2095,2025-01-20,Bridget Gonzalez,Capital,Partner Fund,26589,0.0,Card,Faisalabad,Equity,Paid to supplier
+TXN-2096,2025-01-23,William Hardy,Expense,Electricity Bill,19784,0.0,Cheque,Karachi,Administrative Expense,Paid to supplier
+TXN-2097,2025-01-20,Richard Sanders,Capital,Partner Fund,54341,0.0,Cheque,Karachi,Equity,Paid to supplier
+TXN-2098,2025-04-11,James Murphy,Asset,Furniture,85837,0.0,Cheque,Faisalabad,Current Asset,New equipment
+TXN-2099,2025-03-18,Shaun Guerrero,Expense,Electricity Bill,49521,0.0,Card,Lahore,Administrative Expense,Loan installment
+TXN-2100,2025-02-23,Deborah Johnson,Liability,Bank Loan,97060,0.0,Cash,Lahore,Short-term Liability,Refund processed
+TXN-2101,2025-03-16,Jeffrey Ho,Expense,Supplier Payment,74016,0.0,Cheque,Faisalabad,Operating Expense,Customer advance
+TXN-2102,2025-04-11,Ann Davenport,Refund,Customer Refund,97188,0.0,Card,Karachi,Revenue Adjustment,Loan installment
+TXN-2103,2025-02-24,Teresa Barrett,Capital,Owner Investment,69886,0.0,Cash,Lahore,Equity,Loan installment
+TXN-2104,2025-02-24,Marisa Tate,Income,Flour Sale,96082,16333.94,Bank Transfer,Lahore,Revenue,Monthly bill
+TXN-2105,2025-02-13,Daniel Duncan,Expense,Supplier Payment,43415,0.0,Cheque,Islamabad,Administrative Expense,Refund processed
+TXN-2106,2025-04-10,Stephen Jordan,Asset,Furniture,13003,0.0,Card,Lahore,Current Asset,Customer advance
+TXN-2107,2025-04-02,Crystal Stark,Asset,New Machinery,24243,0.0,Card,Karachi,Fixed Asset,Loan installment
+TXN-2108,2025-02-17,Martin Moyer,Expense,Supplier Payment,19774,0.0,Cheque,Islamabad,Administrative Expense,Paid to supplier
+TXN-2109,2025-02-25,Robin Lewis,Expense,Staff Salary,88979,0.0,Cash,Islamabad,Administrative Expense,New equipment
+TXN-2110,2025-02-08,Carol Atkinson,Liability,Supplier Credit,62460,0.0,Bank Transfer,Faisalabad,Long-term Liability,Marketing campaign
+TXN-2111,2025-02-05,Sandra Fernandez,Asset,New Machinery,46131,0.0,Bank Transfer,Faisalabad,Fixed Asset,New equipment
+TXN-2112,2025-04-06,Jennifer Brown,Refund,Customer Refund,77557,0.0,Cheque,Karachi,Revenue Adjustment,Refund processed
+TXN-2113,2025-04-13,Crystal Santiago,Asset,Furniture,27726,0.0,Cheque,Karachi,Fixed Asset,Refund processed
+TXN-2114,2025-03-10,Kevin Yu,Liability,Supplier Credit,57731,0.0,Cash,Islamabad,Short-term Liability,Customer advance
+TXN-2115,2025-03-13,Jeffrey Nelson,Capital,Owner Investment,97078,0.0,Card,Islamabad,Equity,Paid to supplier
+TXN-2116,2025-03-05,Amy Serrano,Income,Flour Sale,78188,13291.96,Card,Lahore,Revenue,Customer advance
+TXN-2117,2025-04-14,Joshua King,Capital,Shareholder Equity,80209,0.0,Cash,Lahore,Equity,Monthly bill
+TXN-2118,2025-03-12,William Malone,Expense,Marketing,70211,0.0,Cheque,Faisalabad,Administrative Expense,Monthly bill
+TXN-2119,2025-02-26,Cheryl Fisher,Income,Rice Sale,33575,5707.75,Cash,Islamabad,Revenue,Paid to supplier
+TXN-2120,2025-01-25,Christian Thompson,Liability,Bank Loan,61894,0.0,Cheque,Lahore,Long-term Liability,Monthly bill
+TXN-2121,2025-02-11,Kevin Phillips,Capital,Partner Fund,12763,0.0,Bank Transfer,Lahore,Equity,Refund processed
+TXN-2122,2025-03-26,Belinda Maldonado,Liability,Supplier Credit,31749,0.0,Card,Islamabad,Long-term Liability,Refund processed
+TXN-2123,2025-02-01,Elizabeth Griffin,Capital,Owner Investment,38883,0.0,Bank Transfer,Faisalabad,Equity,Customer advance
+TXN-2124,2025-04-12,Elizabeth Davis,Liability,Utility Bill Due,43261,0.0,Cheque,Karachi,Short-term Liability,Monthly bill
+TXN-2125,2025-04-05,John Rodriguez,Income,Oil Sale,66033,11225.61,Cheque,Lahore,Revenue,Marketing campaign
+TXN-2126,2025-04-03,Pamela James,Asset,New Machinery,2683,0.0,Card,Faisalabad,Fixed Asset,Customer advance
+TXN-2127,2025-02-16,Kyle Pena,Income,Sugar Sale,68253,11603.01,Bank Transfer,Faisalabad,Revenue,Refund processed
+TXN-2128,2025-01-26,Anthony Hogan,Liability,Utility Bill Due,88890,0.0,Bank Transfer,Islamabad,Short-term Liability,New equipment
+TXN-2129,2025-03-03,Christopher May,Liability,Supplier Credit,20988,0.0,Bank Transfer,Karachi,Short-term Liability,Loan installment
+TXN-2130,2025-01-22,Ryan Mason,Asset,Furniture,45355,0.0,Bank Transfer,Faisalabad,Fixed Asset,Marketing campaign
+TXN-2131,2025-03-16,Isaac Martinez,Refund,Customer Refund,9512,0.0,Card,Lahore,Revenue Adjustment,Paid to supplier
+TXN-2132,2025-03-03,Lucas West,Asset,Vehicle Purchase,60247,0.0,Bank Transfer,Karachi,Fixed Asset,Marketing campaign
+TXN-2133,2025-03-17,Sally Dominguez,Asset,Vehicle Purchase,38925,0.0,Cheque,Faisalabad,Current Asset,Paid to supplier
+TXN-2134,2025-02-27,Denise Long,Income,Sugar Sale,1870,317.9,Card,Faisalabad,Revenue,Paid to supplier
+TXN-2135,2025-03-16,Brooke Walters,Income,Sugar Sale,78730,13384.1,Bank Transfer,Lahore,Revenue,Refund processed
+TXN-2136,2025-02-18,Anna Evans,Expense,Staff Salary,6898,0.0,Bank Transfer,Karachi,Operating Expense,Refund processed
+TXN-2137,2025-02-14,Stacey Bradley,Liability,Supplier Credit,22212,0.0,Card,Islamabad,Short-term Liability,Refund processed
+TXN-2138,2025-04-04,Lynn Sherman,Asset,Vehicle Purchase,71712,0.0,Card,Faisalabad,Fixed Asset,New equipment
+TXN-2139,2025-03-12,Samuel Ward,Income,Wheat Sale,24270,4125.9,Cheque,Karachi,Revenue,Monthly bill
+TXN-2140,2025-01-23,Gregory Norman,Refund,Supplier Refund,53690,0.0,Cash,Karachi,Revenue Adjustment,Loan installment
+TXN-2141,2025-04-03,Timothy Morgan,Refund,Customer Refund,57680,0.0,Cash,Lahore,Revenue Adjustment,Paid to supplier
+TXN-2142,2025-03-21,Mark Crawford,Capital,Shareholder Equity,89062,0.0,Bank Transfer,Karachi,Equity,Customer advance
+TXN-2143,2025-02-22,Erica Jones,Expense,Staff Salary,69207,0.0,Cash,Faisalabad,Administrative Expense,Refund processed
+TXN-2144,2025-04-13,Valerie Glenn,Expense,Marketing,7166,0.0,Card,Faisalabad,Operating Expense,Paid to supplier
+TXN-2145,2025-02-01,Mrs. Monica Colon,Refund,Customer Refund,49687,0.0,Cheque,Lahore,Revenue Adjustment,Monthly bill
+TXN-2146,2025-01-28,Adam White,Income,Oil Sale,13955,2372.35,Card,Faisalabad,Revenue,Loan installment
+TXN-2147,2025-01-23,Michael Griffin,Capital,Partner Fund,40456,0.0,Card,Islamabad,Equity,Marketing campaign
+TXN-2148,2025-02-04,Brianna Henson,Capital,Shareholder Equity,81561,0.0,Card,Lahore,Equity,Marketing campaign
+TXN-2149,2025-02-12,Jeremiah Miller,Refund,Customer Refund,83927,0.0,Cheque,Karachi,Revenue Adjustment,Loan installment
+TXN-2150,2025-03-02,Cheryl Evans,Capital,Partner Fund,17504,0.0,Cash,Islamabad,Equity,Monthly bill
+TXN-2151,2025-02-22,Paula Boyle,Asset,Vehicle Purchase,17780,0.0,Card,Faisalabad,Fixed Asset,Customer advance
+TXN-2152,2025-03-28,David Roberts,Asset,Vehicle Purchase,14733,0.0,Card,Faisalabad,Fixed Asset,Monthly bill
+TXN-2153,2025-03-04,Ashley Frederick,Refund,Supplier Refund,34588,0.0,Cheque,Islamabad,Revenue Adjustment,Customer advance
+TXN-2154,2025-02-03,Kimberly Graham,Income,Oil Sale,60563,10295.71,Cash,Karachi,Revenue,Customer advance
+TXN-2155,2025-03-31,Brian Blackburn,Asset,Furniture,16117,0.0,Bank Transfer,Karachi,Current Asset,Customer advance
+TXN-2156,2025-01-28,Roger Johnson,Refund,Customer Refund,92293,0.0,Bank Transfer,Karachi,Revenue Adjustment,Marketing campaign
+TXN-2157,2025-03-25,Alicia Berg,Expense,Marketing,39847,0.0,Cash,Islamabad,Operating Expense,Loan installment
+TXN-2158,2025-04-07,Laura Parker,Capital,Partner Fund,28577,0.0,Cash,Lahore,Equity,Paid to supplier
+TXN-2159,2025-02-05,Michael Dillon,Refund,Customer Refund,10051,0.0,Bank Transfer,Karachi,Revenue Adjustment,Loan installment
+TXN-2160,2025-03-27,Alexander Holmes,Asset,Shop Inventory,11514,0.0,Cash,Lahore,Fixed Asset,Paid to supplier
+TXN-2161,2025-03-16,Deborah Skinner MD,Asset,Vehicle Purchase,68554,0.0,Bank Transfer,Islamabad,Fixed Asset,Customer advance
+TXN-2162,2025-03-07,Jackson Garcia,Capital,Owner Investment,4576,0.0,Card,Faisalabad,Equity,Refund processed
+TXN-2163,2025-03-10,Olivia Clark,Income,Wheat Sale,1864,316.88,Card,Islamabad,Revenue,Customer advance
+TXN-2164,2025-01-24,Stacy Valdez,Income,Oil Sale,96059,16330.03,Cash,Lahore,Revenue,New equipment
+TXN-2165,2025-02-03,Erin Ortiz,Asset,Vehicle Purchase,73462,0.0,Card,Karachi,Fixed Asset,New equipment
+TXN-2166,2025-02-15,Douglas Collins,Income,Oil Sale,44440,7554.8,Cheque,Islamabad,Revenue,Refund processed
+TXN-2167,2025-01-17,Peter Powers,Expense,Marketing,47250,0.0,Cheque,Lahore,Operating Expense,Refund processed
+TXN-2168,2025-02-06,Jessica Price,Income,Wheat Sale,914,155.38,Card,Faisalabad,Revenue,Paid to supplier
+TXN-2169,2025-01-25,Jordan Jennings,Income,Flour Sale,69949,11891.33,Card,Islamabad,Revenue,Loan installment
+TXN-2170,2025-03-30,Dustin Perry,Expense,Electricity Bill,30918,0.0,Cheque,Islamabad,Administrative Expense,Refund processed
+TXN-2171,2025-01-19,Travis Ellis,Asset,Vehicle Purchase,25525,0.0,Card,Faisalabad,Current Asset,New equipment
+TXN-2172,2025-01-29,John Lee,Expense,Marketing,30138,0.0,Cash,Faisalabad,Administrative Expense,Customer advance
+TXN-2173,2025-02-02,Jill Mcmahon,Liability,Tax Payable,35548,0.0,Card,Karachi,Long-term Liability,New equipment
+TXN-2174,2025-02-24,Tony Thomas,Expense,Electricity Bill,30616,0.0,Cash,Faisalabad,Operating Expense,Loan installment
+TXN-2175,2025-03-05,Richard Miller,Expense,Marketing,19856,0.0,Card,Faisalabad,Operating Expense,Paid to supplier
+TXN-2176,2025-02-20,Glenn Wallace,Expense,Supplier Payment,45754,0.0,Bank Transfer,Faisalabad,Administrative Expense,Paid to supplier
+TXN-2177,2025-04-10,Lee Howell,Liability,Utility Bill Due,37002,0.0,Cash,Islamabad,Long-term Liability,Customer advance
+TXN-2178,2025-04-14,Bryan Smith,Capital,Partner Fund,31128,0.0,Bank Transfer,Karachi,Equity,Paid to supplier
+TXN-2179,2025-02-24,Tyler Lamb,Refund,Supplier Refund,80755,0.0,Cheque,Karachi,Revenue Adjustment,Customer advance
+TXN-2180,2025-03-10,Tracey Harrison,Liability,Tax Payable,22719,0.0,Cash,Islamabad,Short-term Liability,Refund processed
+TXN-2181,2025-03-21,Tammy Mckay,Capital,Owner Investment,51376,0.0,Card,Faisalabad,Equity,New equipment
+TXN-2182,2025-03-07,Brad Bush,Refund,Supplier Refund,94831,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,Loan installment
+TXN-2183,2025-03-28,Jessica Brown,Liability,Tax Payable,54539,0.0,Bank Transfer,Faisalabad,Long-term Liability,Marketing campaign
+TXN-2184,2025-03-27,Danielle Brooks,Asset,Furniture,85260,0.0,Cheque,Islamabad,Current Asset,Marketing campaign
+TXN-2185,2025-02-05,Ronald Sanchez,Asset,Vehicle Purchase,93986,0.0,Card,Islamabad,Current Asset,Paid to supplier
+TXN-2186,2025-04-11,Shelby Galvan,Refund,Supplier Refund,53162,0.0,Bank Transfer,Karachi,Revenue Adjustment,Marketing campaign
+TXN-2187,2025-03-07,Erica Hoffman,Expense,Electricity Bill,28628,0.0,Card,Lahore,Administrative Expense,Customer advance
+TXN-2188,2025-03-07,Paula Ray,Asset,New Machinery,81607,0.0,Cheque,Islamabad,Fixed Asset,New equipment
+TXN-2189,2025-02-13,Thomas Allen,Refund,Customer Refund,18399,0.0,Card,Lahore,Revenue Adjustment,New equipment
+TXN-2190,2025-03-24,Brian Walker,Refund,Customer Refund,54229,0.0,Cash,Karachi,Revenue Adjustment,Monthly bill
+TXN-2191,2025-01-29,Patrick Alvarez,Refund,Supplier Refund,2959,0.0,Cheque,Faisalabad,Revenue Adjustment,Paid to supplier
+TXN-2192,2025-02-20,Mark Moore,Expense,Staff Salary,77455,0.0,Cheque,Faisalabad,Administrative Expense,Loan installment
+TXN-2193,2025-02-18,Janet Taylor,Capital,Shareholder Equity,56000,0.0,Cash,Karachi,Equity,New equipment
+TXN-2194,2025-03-29,Richard Johnson,Income,Wheat Sale,70981,12066.77,Cheque,Lahore,Revenue,New equipment
+TXN-2195,2025-03-23,Aaron Hubbard,Expense,Electricity Bill,74725,0.0,Cash,Islamabad,Operating Expense,Paid to supplier
+TXN-2196,2025-03-24,Jessica Richards,Asset,New Machinery,6759,0.0,Bank Transfer,Karachi,Fixed Asset,Paid to supplier
+TXN-2197,2025-04-05,Kevin Franklin,Capital,Shareholder Equity,60181,0.0,Card,Islamabad,Equity,New equipment
+TXN-2198,2025-02-21,Matthew Ross,Income,Oil Sale,18482,3141.94,Card,Islamabad,Revenue,Monthly bill
+TXN-2199,2025-04-13,Megan Love,Income,Wheat Sale,79648,13540.16,Cheque,Islamabad,Revenue,Marketing campaign
+TXN-2200,2025-04-10,Benjamin Wright,Asset,Vehicle Purchase,8170,0.0,Cash,Karachi,Fixed Asset,Loan installment
+TXN-2201,2025-01-21,Courtney Stevens,Asset,Furniture,2660,0.0,Bank Transfer,Islamabad,Current Asset,Marketing campaign
+TXN-2202,2025-03-24,Matthew Baker,Refund,Supplier Refund,57114,0.0,Cheque,Lahore,Revenue Adjustment,Monthly bill
+TXN-2203,2025-03-05,Cheryl Sims,Liability,Supplier Credit,37299,0.0,Cheque,Islamabad,Short-term Liability,Marketing campaign
+TXN-2204,2025-02-14,Zachary Briggs,Refund,Customer Refund,56615,0.0,Card,Islamabad,Revenue Adjustment,Marketing campaign
+TXN-2205,2025-02-09,Ariel Stewart,Refund,Customer Refund,29921,0.0,Card,Karachi,Revenue Adjustment,Refund processed
+TXN-2206,2025-02-09,Jacob Moore,Income,Rice Sale,81005,13770.85,Bank Transfer,Karachi,Revenue,Customer advance
+TXN-2207,2025-04-09,Maria Collins,Capital,Partner Fund,19431,0.0,Bank Transfer,Faisalabad,Equity,Customer advance
+TXN-2208,2025-02-28,David Santiago,Asset,Shop Inventory,46276,0.0,Bank Transfer,Faisalabad,Current Asset,Refund processed
+TXN-2209,2025-01-18,Jeffrey Hoover,Refund,Customer Refund,52353,0.0,Cheque,Lahore,Revenue Adjustment,Loan installment
+TXN-2210,2025-01-23,Gabriel Ball,Capital,Owner Investment,47029,0.0,Card,Islamabad,Equity,Refund processed
+TXN-2211,2025-02-03,Justin Jones,Refund,Customer Refund,30352,0.0,Bank Transfer,Karachi,Revenue Adjustment,New equipment
+TXN-2212,2025-04-13,Amanda Fernandez,Liability,Bank Loan,85598,0.0,Bank Transfer,Faisalabad,Short-term Liability,Paid to supplier
+TXN-2213,2025-02-05,Robert Knight,Liability,Tax Payable,30280,0.0,Card,Karachi,Long-term Liability,Paid to supplier
+TXN-2214,2025-01-27,Keith Little,Liability,Bank Loan,33495,0.0,Cash,Faisalabad,Long-term Liability,New equipment
+TXN-2215,2025-03-15,Melissa Rowe,Asset,New Machinery,18706,0.0,Cash,Faisalabad,Fixed Asset,Marketing campaign
+TXN-2216,2025-01-17,Emily Pollard,Income,Flour Sale,58875,10008.75,Card,Lahore,Revenue,Customer advance
+TXN-2217,2025-03-29,Katherine Castillo,Income,Rice Sale,20994,3568.98,Cash,Lahore,Revenue,Refund processed
+TXN-2218,2025-03-27,Theresa Carney,Liability,Utility Bill Due,31713,0.0,Card,Lahore,Short-term Liability,Refund processed
+TXN-2219,2025-03-23,Tanya Anderson,Liability,Tax Payable,9437,0.0,Bank Transfer,Lahore,Short-term Liability,Refund processed
+TXN-2220,2025-03-24,Brooke Dennis,Liability,Utility Bill Due,39439,0.0,Card,Islamabad,Long-term Liability,Monthly bill
+TXN-2221,2025-01-20,Joshua Bender,Refund,Customer Refund,61226,0.0,Cheque,Karachi,Revenue Adjustment,Marketing campaign
+TXN-2222,2025-02-24,Jessica Rivera,Expense,Electricity Bill,62380,0.0,Card,Islamabad,Administrative Expense,Paid to supplier
+TXN-2223,2025-04-01,James Garrett,Expense,Marketing,96160,0.0,Card,Lahore,Operating Expense,Marketing campaign
+TXN-2224,2025-03-27,Adrian Guerra,Capital,Shareholder Equity,49667,0.0,Cash,Islamabad,Equity,Loan installment
+TXN-2225,2025-01-17,David Cook,Income,Rice Sale,15137,2573.29,Card,Lahore,Revenue,Monthly bill
+TXN-2226,2025-02-05,Ryan Lopez,Asset,New Machinery,54892,0.0,Bank Transfer,Islamabad,Fixed Asset,Refund processed
+TXN-2227,2025-03-06,Brenda Ayala,Liability,Bank Loan,38551,0.0,Card,Islamabad,Short-term Liability,New equipment
+TXN-2228,2025-02-12,Joshua Sanders,Income,Flour Sale,10101,1717.17,Cash,Islamabad,Revenue,Paid to supplier
+TXN-2229,2025-02-28,Nicholas Miller,Income,Wheat Sale,41466,7049.22,Cash,Faisalabad,Revenue,Paid to supplier
+TXN-2230,2025-01-20,Jeffrey Walter,Expense,Marketing,87349,0.0,Card,Faisalabad,Operating Expense,Monthly bill
+TXN-2231,2025-03-23,David Lee,Expense,Staff Salary,34063,0.0,Cheque,Islamabad,Operating Expense,Loan installment
+TXN-2232,2025-03-02,Brandon Mendez,Asset,Furniture,74981,0.0,Cheque,Karachi,Current Asset,Marketing campaign
+TXN-2233,2025-03-09,John Simmons,Liability,Bank Loan,51382,0.0,Cheque,Faisalabad,Long-term Liability,Monthly bill
+TXN-2234,2025-01-31,Brittany Bishop,Refund,Customer Refund,74627,0.0,Cheque,Islamabad,Revenue Adjustment,Loan installment
+TXN-2235,2025-02-07,James Roberts,Capital,Shareholder Equity,85481,0.0,Card,Islamabad,Equity,Refund processed
+TXN-2236,2025-04-01,Heather Davis,Expense,Electricity Bill,9510,0.0,Cash,Faisalabad,Administrative Expense,New equipment
+TXN-2237,2025-04-13,Louis Burgess,Capital,Owner Investment,33703,0.0,Cash,Lahore,Equity,Loan installment
+TXN-2238,2025-02-01,Sally Tanner,Capital,Shareholder Equity,85493,0.0,Bank Transfer,Islamabad,Equity,Customer advance
+TXN-2239,2025-02-16,Tracy Smith,Asset,New Machinery,8273,0.0,Cheque,Karachi,Fixed Asset,Paid to supplier
+TXN-2240,2025-03-28,Allen Nelson,Liability,Bank Loan,70126,0.0,Cash,Islamabad,Short-term Liability,New equipment
+TXN-2241,2025-03-15,Mrs. Cynthia Moore,Income,Rice Sale,53106,9028.02,Cheque,Islamabad,Revenue,Paid to supplier
+TXN-2242,2025-01-24,Michelle Lozano,Capital,Partner Fund,71214,0.0,Bank Transfer,Lahore,Equity,Marketing campaign
+TXN-2243,2025-02-25,Marie Robertson,Refund,Supplier Refund,65315,0.0,Cash,Karachi,Revenue Adjustment,Customer advance
+TXN-2244,2025-02-08,Elizabeth Caldwell,Income,Oil Sale,86846,14763.82,Cash,Islamabad,Revenue,Marketing campaign
+TXN-2245,2025-04-07,Tina Sellers,Refund,Customer Refund,27493,0.0,Card,Faisalabad,Revenue Adjustment,Refund processed
+TXN-2246,2025-03-19,Rebecca Rivera,Capital,Owner Investment,20281,0.0,Bank Transfer,Karachi,Equity,Customer advance
+TXN-2247,2025-04-06,April Johnson,Asset,New Machinery,2952,0.0,Cheque,Lahore,Current Asset,New equipment
+TXN-2248,2025-04-04,Christina Thomas,Liability,Tax Payable,39329,0.0,Cash,Lahore,Short-term Liability,Customer advance
+TXN-2249,2025-02-10,Derek Harris,Expense,Staff Salary,78877,0.0,Cash,Karachi,Administrative Expense,New equipment
+TXN-2250,2025-01-25,Justin Acevedo,Income,Rice Sale,35934,6108.78,Bank Transfer,Karachi,Revenue,Monthly bill
+TXN-2251,2025-04-09,Mike Munoz,Asset,Shop Inventory,75898,0.0,Cash,Karachi,Fixed Asset,Refund processed
+TXN-2252,2025-01-30,Joseph Miller,Liability,Tax Payable,14008,0.0,Cash,Karachi,Long-term Liability,Monthly bill
+TXN-2253,2025-03-03,Susan Gilbert,Liability,Tax Payable,70558,0.0,Cheque,Karachi,Short-term Liability,Paid to supplier
+TXN-2254,2025-03-07,John Jimenez,Capital,Partner Fund,4898,0.0,Card,Karachi,Equity,Refund processed
+TXN-2255,2025-02-24,Darren Thompson,Refund,Supplier Refund,34883,0.0,Bank Transfer,Lahore,Revenue Adjustment,Refund processed
+TXN-2256,2025-04-11,Belinda Sexton,Refund,Supplier Refund,17658,0.0,Cheque,Islamabad,Revenue Adjustment,Paid to supplier
+TXN-2257,2025-03-13,Rhonda Oneal,Asset,Vehicle Purchase,1506,0.0,Cheque,Islamabad,Fixed Asset,Refund processed
+TXN-2258,2025-03-28,Bradley Cunningham,Expense,Supplier Payment,10791,0.0,Cheque,Lahore,Operating Expense,Customer advance
+TXN-2259,2025-02-10,Marissa Wilkins,Income,Rice Sale,79355,13490.35,Bank Transfer,Faisalabad,Revenue,Refund processed
+TXN-2260,2025-02-18,Mrs. Christina Parks,Capital,Owner Investment,2466,0.0,Cash,Islamabad,Equity,Marketing campaign
+TXN-2261,2025-04-12,Darren Vargas,Refund,Supplier Refund,19836,0.0,Bank Transfer,Islamabad,Revenue Adjustment,Customer advance
+TXN-2262,2025-02-15,Brian Stanley,Capital,Shareholder Equity,9625,0.0,Cheque,Faisalabad,Equity,Paid to supplier
+TXN-2263,2025-03-23,Tina Hall,Refund,Customer Refund,30022,0.0,Cheque,Islamabad,Revenue Adjustment,Refund processed
+TXN-2264,2025-04-07,David Wright,Refund,Supplier Refund,56727,0.0,Cheque,Islamabad,Revenue Adjustment,New equipment
+TXN-2265,2025-02-19,Joshua Butler,Income,Wheat Sale,89994,15298.98,Bank Transfer,Faisalabad,Revenue,Paid to supplier
+TXN-2266,2025-02-27,Robin Lindsey,Asset,Furniture,30727,0.0,Bank Transfer,Islamabad,Current Asset,Marketing campaign
+TXN-2267,2025-02-13,Sydney Diaz,Asset,Furniture,89352,0.0,Card,Lahore,Fixed Asset,Marketing campaign
+TXN-2268,2025-03-12,Mark Matthews,Liability,Bank Loan,8343,0.0,Bank Transfer,Lahore,Long-term Liability,Customer advance
+TXN-2269,2025-02-21,Debbie Ramirez,Capital,Partner Fund,87411,0.0,Card,Lahore,Equity,Paid to supplier
+TXN-2270,2025-03-03,Brad Nolan,Expense,Supplier Payment,19583,0.0,Cheque,Faisalabad,Administrative Expense,Paid to supplier
+TXN-2271,2025-04-06,Adam Martinez,Asset,Shop Inventory,67080,0.0,Cash,Faisalabad,Fixed Asset,Marketing campaign
+TXN-2272,2025-03-19,Natalie Bullock,Capital,Shareholder Equity,97533,0.0,Bank Transfer,Faisalabad,Equity,Monthly bill
+TXN-2273,2025-02-28,Jody Moore,Asset,Shop Inventory,82557,0.0,Bank Transfer,Faisalabad,Fixed Asset,Monthly bill
+TXN-2274,2025-04-05,Carol Flores,Expense,Staff Salary,8618,0.0,Card,Islamabad,Administrative Expense,Paid to supplier
+TXN-2275,2025-01-19,Holly Medina,Capital,Shareholder Equity,15760,0.0,Cash,Lahore,Equity,New equipment
+TXN-2276,2025-04-11,Jeremy Harvey,Liability,Supplier Credit,34927,0.0,Bank Transfer,Karachi,Short-term Liability,Paid to supplier
+TXN-2277,2025-01-17,James Guzman,Refund,Customer Refund,30125,0.0,Cash,Karachi,Revenue Adjustment,Loan installment
+TXN-2278,2025-03-03,Holly Watson,Liability,Bank Loan,89001,0.0,Cheque,Islamabad,Long-term Liability,Paid to supplier
+TXN-2279,2025-02-01,William Navarro,Income,Oil Sale,62615,10644.55,Bank Transfer,Karachi,Revenue,Paid to supplier
+TXN-2280,2025-02-06,Stacy Cox,Income,Wheat Sale,76005,12920.85,Cheque,Islamabad,Revenue,Monthly bill
+TXN-2281,2025-04-12,Linda Duke,Liability,Supplier Credit,61631,0.0,Bank Transfer,Islamabad,Long-term Liability,New equipment
+TXN-2282,2025-03-19,Samuel Wallace,Capital,Owner Investment,90267,0.0,Cheque,Lahore,Equity,Refund processed
+TXN-2283,2025-02-12,Joe Reid,Income,Flour Sale,56097,9536.49,Bank Transfer,Lahore,Revenue,Loan installment
+TXN-2284,2025-02-26,Jeremy Rivera,Refund,Supplier Refund,80212,0.0,Cash,Faisalabad,Revenue Adjustment,Marketing campaign
+TXN-2285,2025-03-14,Timothy Oconnell,Expense,Shop Rent,61248,0.0,Card,Karachi,Operating Expense,Paid to supplier
+TXN-2286,2025-02-23,Aaron Moses,Liability,Utility Bill Due,29101,0.0,Cheque,Lahore,Short-term Liability,Marketing campaign
+TXN-2287,2025-02-28,Alexander Mullins,Liability,Utility Bill Due,95491,0.0,Card,Karachi,Long-term Liability,Customer advance
+TXN-2288,2025-01-26,Andre Torres,Income,Sugar Sale,52220,8877.4,Bank Transfer,Lahore,Revenue,Paid to supplier
+TXN-2289,2025-02-24,Kathleen Perez,Income,Sugar Sale,57767,9820.39,Cash,Lahore,Revenue,Paid to supplier
+TXN-2290,2025-01-27,Jennifer Wilson,Expense,Supplier Payment,81870,0.0,Cheque,Faisalabad,Administrative Expense,Monthly bill
+TXN-2291,2025-04-10,Denise Stevens,Capital,Partner Fund,78634,0.0,Bank Transfer,Karachi,Equity,New equipment
+TXN-2292,2025-02-18,Ashley Aguilar,Refund,Supplier Refund,34390,0.0,Bank Transfer,Karachi,Revenue Adjustment,Monthly bill
+TXN-2293,2025-04-13,Angela Johnson,Refund,Supplier Refund,58500,0.0,Card,Karachi,Revenue Adjustment,Monthly bill
+TXN-2294,2025-02-05,Teresa Thompson,Refund,Supplier Refund,4117,0.0,Cheque,Lahore,Revenue Adjustment,Monthly bill
+TXN-2295,2025-03-27,Emily Torres,Expense,Staff Salary,55664,0.0,Bank Transfer,Islamabad,Operating Expense,Monthly bill
+TXN-2296,2025-03-04,Jennifer Robinson,Liability,Bank Loan,28527,0.0,Bank Transfer,Karachi,Short-term Liability,New equipment
+TXN-2297,2025-04-09,Jeffrey Morales,Capital,Shareholder Equity,82711,0.0,Cash,Karachi,Equity,Loan installment
+TXN-2298,2025-03-21,Kristen Reyes,Income,Sugar Sale,29234,4969.78,Bank Transfer,Faisalabad,Revenue,Paid to supplier
+TXN-2299,2025-04-07,Kevin Sanders,Expense,Staff Salary,52061,0.0,Bank Transfer,Karachi,Operating Expense,Marketing campaign
+TXN-2300,2025-04-15,John Skinner,Liability,Bank Loan,71601,0.0,Cash,Islamabad,Short-term Liability,Customer advance
+TXN-2301,2025-03-25,Carrie Dunn,Capital,Partner Fund,91259,0.0,Card,Faisalabad,Equity,Marketing campaign
+TXN-2302,2025-04-15,Dr. Elizabeth James,Liability,Supplier Credit,55587,0.0,Bank Transfer,Karachi,Long-term Liability,Paid to supplier
+TXN-2303,2025-01-28,Dawn Lynch,Liability,Supplier Credit,63501,0.0,Cheque,Faisalabad,Short-term Liability,New equipment
+TXN-2304,2025-03-19,Elizabeth Wright,Income,Wheat Sale,12510,2126.7,Cash,Islamabad,Revenue,Loan installment
+TXN-2305,2025-04-11,Jennifer Simpson,Liability,Bank Loan,31182,0.0,Cheque,Faisalabad,Long-term Liability,Monthly bill
+TXN-2306,2025-02-17,Tyler Owens,Refund,Supplier Refund,68100,0.0,Cash,Faisalabad,Revenue Adjustment,Refund processed
+TXN-2307,2025-03-29,Grace Park,Income,Sugar Sale,78989,13428.13,Cash,Karachi,Revenue,New equipment
+TXN-2308,2025-04-09,Lisa Adams,Income,Rice Sale,93061,15820.37,Bank Transfer,Faisalabad,Revenue,Marketing campaign
+TXN-2309,2025-01-26,Mercedes Johnston,Refund,Supplier Refund,33640,0.0,Cheque,Faisalabad,Revenue Adjustment,Marketing campaign
+TXN-2310,2025-02-28,Joyce Sanders,Liability,Tax Payable,70383,0.0,Bank Transfer,Lahore,Long-term Liability,Paid to supplier
+TXN-2311,2025-03-25,Rebecca Kelley,Liability,Utility Bill Due,57422,0.0,Cash,Faisalabad,Long-term Liability,Monthly bill
+TXN-2312,2025-04-08,Douglas Davis DDS,Asset,New Machinery,62314,0.0,Cash,Faisalabad,Current Asset,Marketing campaign
+TXN-2313,2025-03-18,Stephanie Rice,Refund,Supplier Refund,64117,0.0,Cheque,Lahore,Revenue Adjustment,New equipment
+TXN-2314,2025-02-11,Eric Bridges,Asset,Shop Inventory,11017,0.0,Cheque,Faisalabad,Fixed Asset,New equipment
+TXN-2315,2025-03-15,Scott Chan,Income,Flour Sale,17466,2969.22,Card,Lahore,Revenue,New equipment
+TXN-2316,2025-03-06,Laurie Tyler,Liability,Tax Payable,23581,0.0,Cash,Islamabad,Long-term Liability,Paid to supplier
+TXN-2317,2025-04-03,William Coleman,Refund,Customer Refund,54096,0.0,Card,Lahore,Revenue Adjustment,Monthly bill
+TXN-2318,2025-02-03,James Rivas,Refund,Supplier Refund,47413,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,Loan installment
+TXN-2319,2025-03-04,Janet Davis,Refund,Supplier Refund,7443,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,Marketing campaign
+TXN-2320,2025-03-17,Barbara Moore,Expense,Electricity Bill,21083,0.0,Card,Karachi,Administrative Expense,Refund processed
+TXN-2321,2025-03-27,Roberto Ross,Refund,Supplier Refund,89598,0.0,Bank Transfer,Lahore,Revenue Adjustment,Paid to supplier
+TXN-2322,2025-03-11,Ryan Crawford,Refund,Customer Refund,15877,0.0,Cheque,Lahore,Revenue Adjustment,Paid to supplier
+TXN-2323,2025-03-30,Craig Elliott,Income,Wheat Sale,49396,8397.32,Cash,Lahore,Revenue,New equipment
+TXN-2324,2025-04-04,Devon Ferrell,Asset,Shop Inventory,38372,0.0,Cash,Islamabad,Fixed Asset,Customer advance
+TXN-2325,2025-02-04,Alicia Williams,Income,Oil Sale,78343,13318.31,Bank Transfer,Faisalabad,Revenue,Marketing campaign
+TXN-2326,2025-02-24,Ryan Brown,Refund,Supplier Refund,79338,0.0,Cheque,Karachi,Revenue Adjustment,Customer advance
+TXN-2327,2025-02-12,Tracy Melton,Capital,Partner Fund,58338,0.0,Card,Islamabad,Equity,Loan installment
+TXN-2328,2025-03-23,Michael Nguyen,Expense,Electricity Bill,26015,0.0,Card,Islamabad,Operating Expense,New equipment
+TXN-2329,2025-04-16,Jessica Chen,Refund,Customer Refund,33594,0.0,Cash,Islamabad,Revenue Adjustment,Marketing campaign
+TXN-2330,2025-01-28,Lisa Robinson,Capital,Owner Investment,68564,0.0,Bank Transfer,Lahore,Equity,Loan installment
+TXN-2331,2025-02-08,Bryan Jones,Expense,Supplier Payment,2988,0.0,Bank Transfer,Islamabad,Administrative Expense,Customer advance
+TXN-2332,2025-03-10,Tiffany Johnson,Liability,Supplier Credit,85609,0.0,Bank Transfer,Lahore,Short-term Liability,Loan installment
+TXN-2333,2025-04-07,Nicholas Rice,Expense,Marketing,81680,0.0,Card,Faisalabad,Operating Expense,New equipment
+TXN-2334,2025-02-15,Sylvia Kelly,Refund,Supplier Refund,31158,0.0,Cheque,Islamabad,Revenue Adjustment,Refund processed
+TXN-2335,2025-03-23,Michael Johnson,Liability,Utility Bill Due,11223,0.0,Cheque,Karachi,Short-term Liability,Loan installment
+TXN-2336,2025-03-20,Mary Miller,Asset,Vehicle Purchase,13533,0.0,Bank Transfer,Karachi,Fixed Asset,Customer advance
+TXN-2337,2025-02-11,Cheryl Villanueva,Liability,Utility Bill Due,97739,0.0,Cheque,Faisalabad,Long-term Liability,Monthly bill
+TXN-2338,2025-02-27,Madison Hancock,Asset,Shop Inventory,14241,0.0,Cheque,Faisalabad,Fixed Asset,New equipment
+TXN-2339,2025-02-02,Kayla Scott,Liability,Tax Payable,16723,0.0,Card,Karachi,Long-term Liability,Paid to supplier
+TXN-2340,2025-02-25,Edward Perry,Income,Rice Sale,90380,15364.6,Cash,Lahore,Revenue,Loan installment
+TXN-2341,2025-01-18,Melissa Nelson,Expense,Shop Rent,10765,0.0,Card,Faisalabad,Operating Expense,Refund processed
+TXN-2342,2025-03-09,Walter Lambert,Expense,Shop Rent,49902,0.0,Card,Lahore,Administrative Expense,Loan installment
+TXN-2343,2025-01-19,Theresa Kim,Liability,Tax Payable,25283,0.0,Card,Islamabad,Short-term Liability,Paid to supplier
+TXN-2344,2025-04-01,Dustin Garcia,Asset,Furniture,98010,0.0,Card,Faisalabad,Fixed Asset,Paid to supplier
+TXN-2345,2025-04-05,Samantha Watson,Refund,Supplier Refund,72215,0.0,Card,Lahore,Revenue Adjustment,Customer advance
+TXN-2346,2025-01-31,Laura Bennett,Refund,Supplier Refund,54824,0.0,Cash,Karachi,Revenue Adjustment,Paid to supplier
+TXN-2347,2025-02-26,Patrick Garcia,Capital,Owner Investment,80806,0.0,Card,Faisalabad,Equity,Paid to supplier
+TXN-2348,2025-04-07,Susan Wilson,Liability,Supplier Credit,50924,0.0,Card,Faisalabad,Long-term Liability,Loan installment
+TXN-2349,2025-02-26,Timothy Miller,Refund,Customer Refund,70291,0.0,Card,Karachi,Revenue Adjustment,Monthly bill
+TXN-2350,2025-03-22,David Brooks,Refund,Supplier Refund,4585,0.0,Cheque,Faisalabad,Revenue Adjustment,Customer advance
+TXN-2351,2025-02-27,Jennifer Greene,Capital,Shareholder Equity,41996,0.0,Bank Transfer,Karachi,Equity,Refund processed
+TXN-2352,2025-02-26,Amanda Miller,Expense,Supplier Payment,91376,0.0,Card,Lahore,Administrative Expense,New equipment
+TXN-2353,2025-03-28,Matthew Orozco,Refund,Customer Refund,71706,0.0,Cheque,Faisalabad,Revenue Adjustment,Loan installment
+TXN-2354,2025-02-02,Mark Garcia,Refund,Supplier Refund,64672,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,Refund processed
+TXN-2355,2025-03-31,Wendy Tapia,Capital,Partner Fund,40764,0.0,Cheque,Lahore,Equity,Monthly bill
+TXN-2356,2025-02-25,Tiffany Butler,Asset,Vehicle Purchase,53796,0.0,Cheque,Faisalabad,Fixed Asset,New equipment
+TXN-2357,2025-04-02,Michelle Lam,Refund,Supplier Refund,66267,0.0,Cash,Faisalabad,Revenue Adjustment,Marketing campaign
+TXN-2358,2025-01-21,Mr. Marcus Miller,Expense,Staff Salary,36393,0.0,Cash,Lahore,Administrative Expense,Paid to supplier
+TXN-2359,2025-01-19,Brad Flores,Expense,Shop Rent,15096,0.0,Bank Transfer,Lahore,Operating Expense,Refund processed
+TXN-2360,2025-02-20,Helen Romero,Asset,New Machinery,29184,0.0,Cash,Karachi,Current Asset,Monthly bill
+TXN-2361,2025-04-04,Scott Griffin,Expense,Supplier Payment,41499,0.0,Cash,Islamabad,Operating Expense,Marketing campaign
+TXN-2362,2025-01-24,Gloria Roberts,Capital,Partner Fund,85363,0.0,Cheque,Faisalabad,Equity,Monthly bill
+TXN-2363,2025-02-18,Danielle Yates,Liability,Supplier Credit,66567,0.0,Cash,Faisalabad,Short-term Liability,Monthly bill
+TXN-2364,2025-04-04,Amanda Harrington,Liability,Tax Payable,96496,0.0,Cheque,Faisalabad,Long-term Liability,Monthly bill
+TXN-2365,2025-03-26,David Villarreal,Expense,Shop Rent,65723,0.0,Cheque,Karachi,Administrative Expense,New equipment
+TXN-2366,2025-03-05,Benjamin Frank,Refund,Customer Refund,6625,0.0,Card,Islamabad,Revenue Adjustment,Marketing campaign
+TXN-2367,2025-04-15,Jessica Browning MD,Refund,Supplier Refund,87063,0.0,Cash,Islamabad,Revenue Adjustment,Customer advance
+TXN-2368,2025-03-04,Tanya Harris,Expense,Staff Salary,94445,0.0,Cash,Islamabad,Operating Expense,Loan installment
+TXN-2369,2025-03-10,Heather Bennett,Expense,Shop Rent,30744,0.0,Cheque,Karachi,Operating Expense,Customer advance
+TXN-2370,2025-04-15,Chad Wilson,Asset,Furniture,17906,0.0,Bank Transfer,Karachi,Current Asset,Paid to supplier
+TXN-2371,2025-03-19,Mark Simmons,Expense,Shop Rent,88798,0.0,Cash,Faisalabad,Administrative Expense,New equipment
+TXN-2372,2025-04-01,Nathan Harris,Asset,Vehicle Purchase,16261,0.0,Bank Transfer,Karachi,Current Asset,Paid to supplier
+TXN-2373,2025-03-18,Jeffrey Flores,Income,Wheat Sale,69294,11779.98,Cash,Faisalabad,Revenue,Marketing campaign
+TXN-2374,2025-02-06,Sarah Johnson,Capital,Owner Investment,81346,0.0,Cheque,Karachi,Equity,Marketing campaign
+TXN-2375,2025-04-04,Jimmy Taylor,Asset,New Machinery,18316,0.0,Card,Faisalabad,Current Asset,Loan installment
+TXN-2376,2025-01-31,Ruth Warren,Income,Rice Sale,81441,13844.97,Card,Faisalabad,Revenue,Marketing campaign
+TXN-2377,2025-02-07,Krista Chen,Refund,Supplier Refund,3162,0.0,Cheque,Islamabad,Revenue Adjustment,New equipment
+TXN-2378,2025-02-06,Andre Stein,Refund,Supplier Refund,99640,0.0,Cheque,Karachi,Revenue Adjustment,Monthly bill
+TXN-2379,2025-03-31,Anthony Richards,Liability,Utility Bill Due,54134,0.0,Card,Lahore,Long-term Liability,Refund processed
+TXN-2380,2025-02-03,William Green,Liability,Bank Loan,22123,0.0,Cheque,Karachi,Short-term Liability,Customer advance
+TXN-2381,2025-03-31,Mariah Green,Refund,Supplier Refund,42858,0.0,Cheque,Lahore,Revenue Adjustment,Paid to supplier
+TXN-2382,2025-03-15,Heather Gutierrez,Income,Wheat Sale,63165,10738.05,Cash,Karachi,Revenue,Loan installment
+TXN-2383,2025-04-04,David Edwards,Expense,Electricity Bill,15905,0.0,Bank Transfer,Faisalabad,Operating Expense,Monthly bill
+TXN-2384,2025-02-12,Courtney Mitchell,Asset,Furniture,55319,0.0,Cash,Islamabad,Current Asset,Paid to supplier
+TXN-2385,2025-01-24,Brian Gordon,Capital,Owner Investment,88615,0.0,Card,Karachi,Equity,Refund processed
+TXN-2386,2025-01-17,Michael Grant,Expense,Shop Rent,41680,0.0,Cash,Lahore,Operating Expense,Marketing campaign
+TXN-2387,2025-01-26,Katrina Rogers,Expense,Shop Rent,44976,0.0,Cash,Karachi,Administrative Expense,Monthly bill
+TXN-2388,2025-03-16,Brian Williams,Income,Flour Sale,34510,5866.7,Card,Islamabad,Revenue,Marketing campaign
+TXN-2389,2025-03-11,David Nolan,Asset,Furniture,15299,0.0,Card,Faisalabad,Fixed Asset,New equipment
+TXN-2390,2025-03-21,Joshua Davis,Asset,Furniture,10995,0.0,Cash,Lahore,Current Asset,Marketing campaign
+TXN-2391,2025-03-29,Morgan Moss,Income,Rice Sale,88542,15052.14,Card,Islamabad,Revenue,New equipment
+TXN-2392,2025-02-09,Lisa Richardson,Liability,Tax Payable,84067,0.0,Bank Transfer,Lahore,Short-term Liability,Monthly bill
+TXN-2393,2025-03-26,Steve Chen,Refund,Customer Refund,34928,0.0,Cash,Islamabad,Revenue Adjustment,Marketing campaign
+TXN-2394,2025-01-25,Victoria Estrada,Asset,New Machinery,53203,0.0,Cash,Islamabad,Current Asset,Customer advance
+TXN-2395,2025-03-02,William Casey,Capital,Owner Investment,285,0.0,Bank Transfer,Islamabad,Equity,Paid to supplier
+TXN-2396,2025-04-14,Amber Reynolds,Capital,Owner Investment,93147,0.0,Bank Transfer,Karachi,Equity,Marketing campaign
+TXN-2397,2025-04-12,Kevin Fuller,Refund,Customer Refund,32480,0.0,Card,Islamabad,Revenue Adjustment,Monthly bill
+TXN-2398,2025-02-18,Joshua Patton,Asset,Vehicle Purchase,44442,0.0,Cash,Islamabad,Fixed Asset,Paid to supplier
+TXN-2399,2025-01-29,Adam Romero,Expense,Staff Salary,10056,0.0,Bank Transfer,Lahore,Administrative Expense,Refund processed
+TXN-2400,2025-01-23,Carla Sims,Capital,Partner Fund,76803,0.0,Cheque,Faisalabad,Equity,Monthly bill
+TXN-2401,2025-01-22,Christopher Ward,Income,Sugar Sale,25080,4263.6,Bank Transfer,Karachi,Revenue,Customer advance
+TXN-2402,2025-04-11,Carly Harrison,Liability,Supplier Credit,53840,0.0,Cash,Faisalabad,Short-term Liability,Customer advance
+TXN-2403,2025-01-26,Ashley Chen,Expense,Electricity Bill,14308,0.0,Cheque,Faisalabad,Administrative Expense,Loan installment
+TXN-2404,2025-03-16,Kevin Raymond,Capital,Owner Investment,79606,0.0,Cash,Faisalabad,Equity,Marketing campaign
+TXN-2405,2025-02-22,Chelsea Hall,Capital,Partner Fund,17972,0.0,Cheque,Karachi,Equity,Customer advance
+TXN-2406,2025-04-02,Thomas Andrade,Expense,Shop Rent,79738,0.0,Cash,Lahore,Administrative Expense,Marketing campaign
+TXN-2407,2025-03-28,Eddie Davis,Asset,Shop Inventory,9214,0.0,Cheque,Lahore,Fixed Asset,Marketing campaign
+TXN-2408,2025-03-30,Anthony Rodriguez,Refund,Supplier Refund,66153,0.0,Bank Transfer,Lahore,Revenue Adjustment,Customer advance
+TXN-2409,2025-01-29,Mathew Harris,Liability,Utility Bill Due,15070,0.0,Cash,Lahore,Long-term Liability,Monthly bill
+TXN-2410,2025-04-09,Jessica Johnson,Refund,Customer Refund,86359,0.0,Bank Transfer,Lahore,Revenue Adjustment,New equipment
+TXN-2411,2025-02-22,Jennifer Hicks,Capital,Shareholder Equity,31722,0.0,Card,Karachi,Equity,New equipment
+TXN-2412,2025-02-25,Robert Duffy,Income,Flour Sale,63671,10824.07,Cash,Karachi,Revenue,Refund processed
+TXN-2413,2025-03-07,Aaron Riley,Expense,Supplier Payment,80297,0.0,Cash,Karachi,Administrative Expense,Refund processed
+TXN-2414,2025-02-14,Stephen Chase,Refund,Supplier Refund,15420,0.0,Bank Transfer,Lahore,Revenue Adjustment,Customer advance
+TXN-2415,2025-01-26,William Daniel,Income,Flour Sale,27072,4602.24,Cash,Islamabad,Revenue,Marketing campaign
+TXN-2416,2025-01-28,Nancy Rodriguez,Capital,Owner Investment,95347,0.0,Cash,Lahore,Equity,Monthly bill
+TXN-2417,2025-03-27,Stephanie Mcclain,Income,Oil Sale,62588,10639.96,Cheque,Islamabad,Revenue,Customer advance
+TXN-2418,2025-03-18,Christopher Hoover,Liability,Bank Loan,7539,0.0,Cheque,Faisalabad,Short-term Liability,New equipment
+TXN-2419,2025-01-28,Gregory Washington,Liability,Utility Bill Due,65257,0.0,Cheque,Faisalabad,Long-term Liability,Paid to supplier
+TXN-2420,2025-04-07,Derek Taylor,Asset,Furniture,83459,0.0,Card,Islamabad,Current Asset,Customer advance
+TXN-2421,2025-03-16,Tara Turner,Refund,Supplier Refund,97057,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,Customer advance
+TXN-2422,2025-02-24,Peter Harrison,Income,Oil Sale,96584,16419.28,Card,Lahore,Revenue,Paid to supplier
+TXN-2423,2025-02-26,Natasha Smith,Capital,Shareholder Equity,74148,0.0,Cheque,Faisalabad,Equity,New equipment
+TXN-2424,2025-01-27,Joseph Wang,Expense,Marketing,47816,0.0,Cash,Lahore,Operating Expense,New equipment
+TXN-2425,2025-03-02,Ashley Tyler,Income,Flour Sale,61994,10538.98,Bank Transfer,Lahore,Revenue,Refund processed
+TXN-2426,2025-04-14,Raven Gardner,Asset,New Machinery,4279,0.0,Bank Transfer,Islamabad,Current Asset,Monthly bill
+TXN-2427,2025-02-12,Chad Hall,Income,Rice Sale,24698,4198.66,Cash,Faisalabad,Revenue,Monthly bill
+TXN-2428,2025-02-25,Kimberly Rivera,Income,Oil Sale,57988,9857.96,Cheque,Faisalabad,Revenue,Refund processed
+TXN-2429,2025-01-29,Anne Glenn,Income,Rice Sale,31071,5282.07,Cheque,Islamabad,Revenue,Customer advance
+TXN-2430,2025-02-07,Brandon Green,Refund,Supplier Refund,25629,0.0,Cheque,Karachi,Revenue Adjustment,Refund processed
+TXN-2431,2025-02-07,Antonio Huerta,Liability,Utility Bill Due,49684,0.0,Bank Transfer,Islamabad,Long-term Liability,Paid to supplier
+TXN-2432,2025-02-25,Henry Buchanan,Asset,New Machinery,52591,0.0,Card,Lahore,Current Asset,New equipment
+TXN-2433,2025-02-13,Kayla Mullen,Income,Rice Sale,1360,231.2,Bank Transfer,Islamabad,Revenue,New equipment
+TXN-2434,2025-02-08,Natalie Ward,Income,Oil Sale,76956,13082.52,Card,Islamabad,Revenue,Customer advance
+TXN-2435,2025-04-01,Amanda Neal,Capital,Shareholder Equity,6138,0.0,Cheque,Faisalabad,Equity,Marketing campaign
+TXN-2436,2025-03-01,Kevin Frederick,Asset,New Machinery,89242,0.0,Bank Transfer,Islamabad,Fixed Asset,Marketing campaign
+TXN-2437,2025-02-13,Jordan Galvan,Refund,Customer Refund,84217,0.0,Bank Transfer,Lahore,Revenue Adjustment,Customer advance
+TXN-2438,2025-03-04,Erica Jones,Asset,Vehicle Purchase,90534,0.0,Card,Islamabad,Fixed Asset,Paid to supplier
+TXN-2439,2025-02-02,Kelli Robinson,Liability,Supplier Credit,76017,0.0,Cheque,Karachi,Long-term Liability,Refund processed
+TXN-2440,2025-02-20,Anthony Davis,Asset,New Machinery,17526,0.0,Cash,Faisalabad,Current Asset,Monthly bill
+TXN-2441,2025-04-11,Benjamin Sullivan,Expense,Supplier Payment,70700,0.0,Cheque,Islamabad,Administrative Expense,Paid to supplier
+TXN-2442,2025-02-15,Kimberly Fernandez,Asset,New Machinery,81596,0.0,Card,Lahore,Fixed Asset,New equipment
+TXN-2443,2025-01-23,Heather Wiley,Liability,Supplier Credit,33343,0.0,Cash,Lahore,Short-term Liability,Customer advance
+TXN-2444,2025-03-04,Edward Nelson,Expense,Supplier Payment,14489,0.0,Cheque,Islamabad,Administrative Expense,Customer advance
+TXN-2445,2025-02-12,Jeffery Williams MD,Liability,Supplier Credit,56200,0.0,Cheque,Lahore,Short-term Liability,Marketing campaign
+TXN-2446,2025-03-12,Alexandra Jones,Capital,Owner Investment,73451,0.0,Cash,Karachi,Equity,New equipment
+TXN-2447,2025-03-02,Frances Walker,Expense,Marketing,72854,0.0,Card,Faisalabad,Operating Expense,Refund processed
+TXN-2448,2025-03-11,Ian Harrington,Income,Sugar Sale,97228,16528.76,Bank Transfer,Karachi,Revenue,Loan installment
+TXN-2449,2025-02-10,Xavier Andrews,Capital,Owner Investment,96221,0.0,Cash,Karachi,Equity,Marketing campaign
+TXN-2450,2025-02-05,Albert Hatfield,Refund,Customer Refund,54148,0.0,Cash,Islamabad,Revenue Adjustment,Loan installment
+TXN-2451,2025-03-18,Douglas Smith,Refund,Supplier Refund,79934,0.0,Cheque,Lahore,Revenue Adjustment,Loan installment
+TXN-2452,2025-02-01,Scott Thomas,Asset,Furniture,18608,0.0,Cash,Lahore,Current Asset,Paid to supplier
+TXN-2453,2025-02-10,Samantha Harvey DVM,Expense,Marketing,84330,0.0,Cheque,Karachi,Operating Expense,Customer advance
+TXN-2454,2025-04-10,Veronica Ortiz,Expense,Supplier Payment,53165,0.0,Bank Transfer,Lahore,Operating Expense,Refund processed
+TXN-2455,2025-02-20,Nancy Davis,Asset,Furniture,16072,0.0,Card,Islamabad,Fixed Asset,Marketing campaign
+TXN-2456,2025-02-22,Eric Anderson,Capital,Partner Fund,63896,0.0,Bank Transfer,Karachi,Equity,New equipment
+TXN-2457,2025-04-07,Shane Hughes,Asset,Shop Inventory,35287,0.0,Card,Lahore,Current Asset,Paid to supplier
+TXN-2458,2025-01-31,David Norris DDS,Refund,Customer Refund,84554,0.0,Cheque,Faisalabad,Revenue Adjustment,Monthly bill
+TXN-2459,2025-03-24,Margaret Simon,Asset,Vehicle Purchase,12783,0.0,Cash,Karachi,Fixed Asset,Paid to supplier
+TXN-2460,2025-02-15,Natasha Hughes,Expense,Shop Rent,12629,0.0,Bank Transfer,Islamabad,Administrative Expense,Refund processed
+TXN-2461,2025-03-24,Shannon Spencer,Liability,Tax Payable,6175,0.0,Cheque,Islamabad,Short-term Liability,New equipment
+TXN-2462,2025-03-14,Kathy Schneider,Expense,Electricity Bill,9126,0.0,Cash,Karachi,Operating Expense,New equipment
+TXN-2463,2025-02-01,Caleb Davila,Liability,Tax Payable,22654,0.0,Bank Transfer,Lahore,Long-term Liability,Monthly bill
+TXN-2464,2025-02-12,Cody Hernandez,Asset,Shop Inventory,59456,0.0,Cheque,Lahore,Fixed Asset,Loan installment
+TXN-2465,2025-01-28,Omar Friedman,Expense,Shop Rent,39985,0.0,Bank Transfer,Faisalabad,Operating Expense,Loan installment
+TXN-2466,2025-01-28,Nicole Moreno,Refund,Customer Refund,74373,0.0,Cash,Lahore,Revenue Adjustment,New equipment
+TXN-2467,2025-03-12,Tony Smith,Liability,Tax Payable,61311,0.0,Cheque,Islamabad,Long-term Liability,Monthly bill
+TXN-2468,2025-02-18,Tracey Collins,Income,Flour Sale,314,53.38,Cheque,Faisalabad,Revenue,Loan installment
+TXN-2469,2025-02-20,Laura Mckenzie,Refund,Customer Refund,53117,0.0,Cheque,Lahore,Revenue Adjustment,New equipment
+TXN-2470,2025-02-03,Beth Foley,Liability,Tax Payable,91649,0.0,Cheque,Karachi,Short-term Liability,Loan installment
+TXN-2471,2025-02-13,Alec Woods,Income,Sugar Sale,59486,10112.62,Card,Karachi,Revenue,Marketing campaign
+TXN-2472,2025-02-03,Wayne Coffey,Refund,Customer Refund,81714,0.0,Card,Lahore,Revenue Adjustment,Loan installment
+TXN-2473,2025-02-21,Sherri Smith,Expense,Staff Salary,17821,0.0,Card,Lahore,Operating Expense,Loan installment
+TXN-2474,2025-03-02,Daniel Huber,Refund,Supplier Refund,71019,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,Marketing campaign
+TXN-2475,2025-02-23,Brent Joseph,Liability,Utility Bill Due,25050,0.0,Bank Transfer,Faisalabad,Long-term Liability,Marketing campaign
+TXN-2476,2025-02-26,Glenn Roth,Expense,Marketing,35674,0.0,Card,Karachi,Administrative Expense,Monthly bill
+TXN-2477,2025-02-07,Tara Johnson,Refund,Supplier Refund,82416,0.0,Cash,Karachi,Revenue Adjustment,Monthly bill
+TXN-2478,2025-03-13,Holly Moore,Income,Sugar Sale,16191,2752.47,Cash,Faisalabad,Revenue,Monthly bill
+TXN-2479,2025-04-11,Lori Robles,Expense,Marketing,83953,0.0,Cash,Karachi,Operating Expense,New equipment
+TXN-2480,2025-03-27,Jonathan Allen,Capital,Owner Investment,72199,0.0,Cash,Karachi,Equity,Refund processed
+TXN-2481,2025-01-18,Heather Jackson,Liability,Tax Payable,36237,0.0,Cash,Islamabad,Long-term Liability,Loan installment
+TXN-2482,2025-01-17,Robert Williams,Income,Wheat Sale,27900,4743.0,Card,Islamabad,Revenue,Loan installment
+TXN-2483,2025-03-28,Cassandra Wallace,Capital,Shareholder Equity,38302,0.0,Bank Transfer,Islamabad,Equity,Paid to supplier
+TXN-2484,2025-02-16,Scott Patel,Capital,Owner Investment,53845,0.0,Bank Transfer,Lahore,Equity,Paid to supplier
+TXN-2485,2025-03-29,Karen Rose,Expense,Electricity Bill,79377,0.0,Cash,Lahore,Administrative Expense,Refund processed
+TXN-2486,2025-03-30,Jennifer Jones,Capital,Partner Fund,20307,0.0,Card,Lahore,Equity,Paid to supplier
+TXN-2487,2025-02-19,Juan Brooks,Refund,Customer Refund,44420,0.0,Card,Islamabad,Revenue Adjustment,Loan installment
+TXN-2488,2025-04-09,John Campos,Capital,Shareholder Equity,92734,0.0,Card,Faisalabad,Equity,Monthly bill
+TXN-2489,2025-03-08,Laura Gamble,Refund,Customer Refund,73711,0.0,Card,Islamabad,Revenue Adjustment,Customer advance
+TXN-2490,2025-03-21,Caroline Bell,Capital,Partner Fund,23021,0.0,Cash,Faisalabad,Equity,Customer advance
+TXN-2491,2025-03-25,Troy Howard,Refund,Supplier Refund,78712,0.0,Card,Faisalabad,Revenue Adjustment,Monthly bill
+TXN-2492,2025-03-11,Julie Jackson,Refund,Supplier Refund,23979,0.0,Card,Faisalabad,Revenue Adjustment,Refund processed
+TXN-2493,2025-03-20,Brandon Mills,Asset,New Machinery,96136,0.0,Cheque,Faisalabad,Fixed Asset,Monthly bill
+TXN-2494,2025-01-26,Nicolas Maldonado,Income,Oil Sale,34847,5923.99,Bank Transfer,Karachi,Revenue,Refund processed
+TXN-2495,2025-01-29,Sherry Gray,Expense,Staff Salary,56914,0.0,Cash,Islamabad,Operating Expense,Marketing campaign
+TXN-2496,2025-02-16,Pamela Brown,Asset,Furniture,31073,0.0,Cheque,Faisalabad,Current Asset,Refund processed
+TXN-2497,2025-04-02,Christine Castaneda MD,Refund,Customer Refund,28468,0.0,Card,Faisalabad,Revenue Adjustment,Refund processed
+TXN-2498,2025-02-01,Katherine Robinson,Capital,Shareholder Equity,20022,0.0,Cheque,Islamabad,Equity,Paid to supplier
+TXN-2499,2025-03-19,Eric Frederick,Asset,Vehicle Purchase,8936,0.0,Bank Transfer,Islamabad,Current Asset,Loan installment
+TXN-2500,2025-02-24,Timothy Eaton,Expense,Supplier Payment,40058,0.0,Bank Transfer,Faisalabad,Administrative Expense,Loan installment
+TXN-2501,2025-02-13,Noah Gordon,Refund,Customer Refund,27376,0.0,Cheque,Faisalabad,Revenue Adjustment,Refund processed
+TXN-2502,2025-01-17,Andres Hill,Income,Wheat Sale,87417,14860.89,Cash,Faisalabad,Revenue,Loan installment
+TXN-2503,2025-03-16,Erin Brown,Income,Flour Sale,27054,4599.18,Card,Karachi,Revenue,Loan installment
+TXN-2504,2025-01-29,Phillip Wong,Asset,Furniture,9618,0.0,Card,Karachi,Fixed Asset,Customer advance
+TXN-2505,2025-02-01,Kristen Wright,Income,Sugar Sale,84803,14416.51,Cash,Lahore,Revenue,Marketing campaign
+TXN-2506,2025-03-07,Sherri Carter,Refund,Supplier Refund,7204,0.0,Bank Transfer,Islamabad,Revenue Adjustment,Loan installment
+TXN-2507,2025-03-30,Samantha Riddle,Asset,New Machinery,76626,0.0,Card,Faisalabad,Current Asset,New equipment
+TXN-2508,2025-02-19,Manuel King,Refund,Supplier Refund,17936,0.0,Bank Transfer,Lahore,Revenue Adjustment,Customer advance
+TXN-2509,2025-02-09,Tyler Davis,Asset,Shop Inventory,13704,0.0,Bank Transfer,Islamabad,Fixed Asset,Customer advance
+TXN-2510,2025-02-09,Victoria Perez,Expense,Electricity Bill,60147,0.0,Card,Lahore,Operating Expense,Loan installment
+TXN-2511,2025-04-03,Andrew Fisher,Income,Oil Sale,49098,8346.66,Cash,Lahore,Revenue,Marketing campaign
+TXN-2512,2025-02-23,Aaron Baker,Liability,Tax Payable,45787,0.0,Bank Transfer,Islamabad,Short-term Liability,Customer advance
+TXN-2513,2025-03-19,Kathryn Barber,Asset,Vehicle Purchase,14432,0.0,Bank Transfer,Islamabad,Current Asset,Paid to supplier
+TXN-2514,2025-01-17,Terry Lee,Income,Flour Sale,47570,8086.9,Cheque,Faisalabad,Revenue,Marketing campaign
+TXN-2515,2025-03-02,Miranda Bray,Capital,Shareholder Equity,20565,0.0,Bank Transfer,Karachi,Equity,Paid to supplier
+TXN-2516,2025-02-19,Mrs. Cheryl Dodson,Expense,Staff Salary,30373,0.0,Cash,Karachi,Operating Expense,Paid to supplier
+TXN-2517,2025-04-09,Kelly Henry,Income,Rice Sale,42409,7209.53,Card,Karachi,Revenue,Refund processed
+TXN-2518,2025-03-24,Kyle Carey,Capital,Owner Investment,45932,0.0,Cash,Islamabad,Equity,Refund processed
+TXN-2519,2025-03-24,Michelle Rivera,Expense,Marketing,41629,0.0,Cash,Karachi,Operating Expense,Refund processed
+TXN-2520,2025-04-15,Tanner Reed,Capital,Shareholder Equity,55156,0.0,Cheque,Faisalabad,Equity,Monthly bill
+TXN-2521,2025-04-07,Kelly Ortiz,Capital,Owner Investment,67207,0.0,Card,Faisalabad,Equity,Paid to supplier
+TXN-2522,2025-04-14,Benjamin Garcia,Asset,Furniture,5249,0.0,Bank Transfer,Islamabad,Fixed Asset,Paid to supplier
+TXN-2523,2025-03-31,Stephanie Johns,Income,Sugar Sale,73924,12567.08,Cheque,Islamabad,Revenue,Marketing campaign
+TXN-2524,2025-02-23,Katrina Smith,Refund,Customer Refund,82350,0.0,Bank Transfer,Karachi,Revenue Adjustment,Marketing campaign
+TXN-2525,2025-01-31,Linda Scott,Liability,Tax Payable,7333,0.0,Cash,Karachi,Short-term Liability,Customer advance
+TXN-2526,2025-02-27,Annette Wise,Refund,Customer Refund,10972,0.0,Cash,Islamabad,Revenue Adjustment,Customer advance
+TXN-2527,2025-04-08,Jon Lawrence,Asset,New Machinery,55023,0.0,Bank Transfer,Faisalabad,Current Asset,Loan installment
+TXN-2528,2025-02-14,David Lee,Expense,Supplier Payment,69042,0.0,Card,Karachi,Administrative Expense,Customer advance
+TXN-2529,2025-01-18,Christina Roth,Income,Sugar Sale,99438,16904.46,Cheque,Islamabad,Revenue,Paid to supplier
+TXN-2530,2025-02-21,Paul Smith,Liability,Bank Loan,59467,0.0,Cash,Karachi,Short-term Liability,Refund processed
+TXN-2531,2025-02-19,Kevin Cannon,Refund,Customer Refund,96356,0.0,Bank Transfer,Lahore,Revenue Adjustment,Monthly bill
+TXN-2532,2025-02-07,Jennifer Evans,Income,Wheat Sale,58058,9869.86,Cheque,Karachi,Revenue,Paid to supplier
+TXN-2533,2025-02-11,Michelle Sosa,Capital,Shareholder Equity,42890,0.0,Cash,Lahore,Equity,Marketing campaign
+TXN-2534,2025-03-12,Dylan Horn,Asset,Shop Inventory,22521,0.0,Cheque,Islamabad,Current Asset,Refund processed
+TXN-2535,2025-02-25,Michael Frey,Income,Wheat Sale,37174,6319.58,Bank Transfer,Lahore,Revenue,New equipment
+TXN-2536,2025-02-02,Melissa Hendrix,Liability,Utility Bill Due,81993,0.0,Card,Lahore,Long-term Liability,New equipment
+TXN-2537,2025-02-10,Cynthia Bond,Capital,Partner Fund,31106,0.0,Cash,Lahore,Equity,Refund processed
+TXN-2538,2025-03-04,Angela Gross,Asset,New Machinery,52657,0.0,Cheque,Lahore,Current Asset,Customer advance
+TXN-2539,2025-02-19,James Briggs,Expense,Staff Salary,78334,0.0,Cheque,Faisalabad,Operating Expense,Loan installment
+TXN-2540,2025-02-16,Tyler Moore,Liability,Supplier Credit,8881,0.0,Card,Islamabad,Long-term Liability,Monthly bill
+TXN-2541,2025-01-23,Nichole Davis,Income,Rice Sale,98394,16726.98,Bank Transfer,Islamabad,Revenue,Monthly bill
+TXN-2542,2025-02-13,Walter Hardy,Income,Sugar Sale,18519,3148.23,Bank Transfer,Karachi,Revenue,Paid to supplier
+TXN-2543,2025-02-06,John Moore,Expense,Supplier Payment,5383,0.0,Cheque,Karachi,Operating Expense,Customer advance
+TXN-2544,2025-03-13,Samantha Hamilton,Asset,Furniture,50100,0.0,Card,Islamabad,Current Asset,Marketing campaign
+TXN-2545,2025-01-22,Russell Anderson,Liability,Tax Payable,31011,0.0,Bank Transfer,Faisalabad,Long-term Liability,Refund processed
+TXN-2546,2025-01-27,Carolyn Greene,Refund,Customer Refund,30882,0.0,Card,Faisalabad,Revenue Adjustment,Loan installment
+TXN-2547,2025-02-17,Samantha Williams,Liability,Utility Bill Due,515,0.0,Card,Islamabad,Long-term Liability,New equipment
+TXN-2548,2025-03-27,Mr. Joshua Hernandez,Capital,Shareholder Equity,92742,0.0,Cheque,Faisalabad,Equity,Customer advance
+TXN-2549,2025-03-07,Curtis Elliott,Asset,Furniture,78754,0.0,Cheque,Lahore,Current Asset,Refund processed
+TXN-2550,2025-03-09,Taylor Lopez,Expense,Shop Rent,80008,0.0,Card,Islamabad,Administrative Expense,Customer advance
+TXN-2551,2025-01-27,Debra Moran,Capital,Owner Investment,69267,0.0,Bank Transfer,Islamabad,Equity,New equipment
+TXN-2552,2025-02-18,Lori Lee,Asset,Vehicle Purchase,25174,0.0,Cheque,Lahore,Fixed Asset,Paid to supplier
+TXN-2553,2025-03-01,Denise Jackson,Refund,Supplier Refund,91368,0.0,Cheque,Lahore,Revenue Adjustment,New equipment
+TXN-2554,2025-01-20,Matthew Sanford,Income,Wheat Sale,70520,11988.4,Card,Lahore,Revenue,Marketing campaign
+TXN-2555,2025-02-09,Brian Reyes,Expense,Marketing,62997,0.0,Cash,Islamabad,Administrative Expense,Paid to supplier
+TXN-2556,2025-04-11,Corey Jenkins,Refund,Customer Refund,34751,0.0,Card,Faisalabad,Revenue Adjustment,Monthly bill
+TXN-2557,2025-01-24,Catherine Conrad,Capital,Partner Fund,29069,0.0,Cheque,Karachi,Equity,Customer advance
+TXN-2558,2025-02-24,Heather Murphy,Capital,Shareholder Equity,76118,0.0,Card,Islamabad,Equity,Loan installment
+TXN-2559,2025-01-21,Shirley Garcia,Liability,Utility Bill Due,45012,0.0,Bank Transfer,Faisalabad,Short-term Liability,Refund processed
+TXN-2560,2025-04-08,Dean Burton,Refund,Customer Refund,4908,0.0,Cash,Karachi,Revenue Adjustment,Customer advance
+TXN-2561,2025-03-03,Andrea Ingram,Asset,Vehicle Purchase,18783,0.0,Bank Transfer,Islamabad,Fixed Asset,Refund processed
+TXN-2562,2025-02-03,Kelly Thornton,Expense,Marketing,57944,0.0,Cheque,Islamabad,Operating Expense,Refund processed
+TXN-2563,2025-04-09,Chelsea Wilkinson,Capital,Shareholder Equity,26109,0.0,Cash,Islamabad,Equity,Monthly bill
+TXN-2564,2025-03-02,Isaiah Mcmahon,Asset,Shop Inventory,25140,0.0,Cheque,Karachi,Fixed Asset,New equipment
+TXN-2565,2025-03-08,Brian Sullivan,Liability,Tax Payable,37483,0.0,Card,Karachi,Short-term Liability,Refund processed
+TXN-2566,2025-03-09,Jacqueline Hendricks,Income,Wheat Sale,94721,16102.57,Cash,Faisalabad,Revenue,Customer advance
+TXN-2567,2025-04-11,Kristopher Cooper,Asset,Shop Inventory,76694,0.0,Cash,Islamabad,Fixed Asset,Marketing campaign
+TXN-2568,2025-02-02,Charles Parker,Refund,Supplier Refund,39318,0.0,Bank Transfer,Lahore,Revenue Adjustment,New equipment
+TXN-2569,2025-01-29,Maureen Ellis,Asset,Shop Inventory,64474,0.0,Bank Transfer,Lahore,Current Asset,Refund processed
+TXN-2570,2025-04-06,Angela Taylor,Liability,Supplier Credit,98753,0.0,Card,Faisalabad,Long-term Liability,Paid to supplier
+TXN-2571,2025-03-26,Amy Houston,Refund,Customer Refund,54604,0.0,Bank Transfer,Karachi,Revenue Adjustment,Marketing campaign
+TXN-2572,2025-02-13,Laura Murray,Capital,Shareholder Equity,85361,0.0,Cheque,Islamabad,Equity,Paid to supplier
+TXN-2573,2025-02-23,Jennifer Fischer,Asset,New Machinery,52407,0.0,Card,Lahore,Current Asset,New equipment
+TXN-2574,2025-03-04,Carla Phillips,Expense,Electricity Bill,34760,0.0,Bank Transfer,Karachi,Administrative Expense,Loan installment
+TXN-2575,2025-03-27,Breanna Medina,Income,Flour Sale,60481,10281.77,Bank Transfer,Lahore,Revenue,Customer advance
+TXN-2576,2025-03-25,John Moon,Expense,Staff Salary,47482,0.0,Cheque,Islamabad,Operating Expense,Loan installment
+TXN-2577,2025-03-13,Dennis Harris,Expense,Supplier Payment,65619,0.0,Cheque,Faisalabad,Administrative Expense,Marketing campaign
+TXN-2578,2025-04-02,Gina Kim,Income,Sugar Sale,76316,12973.72,Bank Transfer,Faisalabad,Revenue,Refund processed
+TXN-2579,2025-03-15,Heidi Smith,Capital,Owner Investment,64747,0.0,Bank Transfer,Islamabad,Equity,Customer advance
+TXN-2580,2025-03-04,Tonya Jones,Liability,Utility Bill Due,216,0.0,Card,Karachi,Long-term Liability,Loan installment
+TXN-2581,2025-03-20,Todd Oliver,Liability,Bank Loan,49585,0.0,Cheque,Islamabad,Short-term Liability,Loan installment
+TXN-2582,2025-03-11,Melissa Price,Income,Wheat Sale,96388,16385.96,Cheque,Karachi,Revenue,Paid to supplier
+TXN-2583,2025-02-22,Jamie Jackson,Liability,Bank Loan,54472,0.0,Cheque,Karachi,Short-term Liability,Customer advance
+TXN-2584,2025-03-27,Sarah Conner,Refund,Customer Refund,56784,0.0,Card,Faisalabad,Revenue Adjustment,Monthly bill
+TXN-2585,2025-04-14,Jessica Moreno,Capital,Owner Investment,48986,0.0,Cash,Islamabad,Equity,Refund processed
+TXN-2586,2025-01-24,Collin Haley,Liability,Tax Payable,99156,0.0,Cheque,Karachi,Short-term Liability,Marketing campaign
+TXN-2587,2025-02-04,Robert Roberts,Liability,Utility Bill Due,81437,0.0,Cheque,Faisalabad,Long-term Liability,New equipment
+TXN-2588,2025-04-08,Nathan Cooper,Expense,Shop Rent,15144,0.0,Cheque,Islamabad,Administrative Expense,Monthly bill
+TXN-2589,2025-01-21,Cynthia Lee,Capital,Owner Investment,67087,0.0,Cash,Islamabad,Equity,Customer advance
+TXN-2590,2025-01-28,Jason Morales,Liability,Supplier Credit,65904,0.0,Card,Karachi,Short-term Liability,Loan installment
+TXN-2591,2025-04-12,Randy Miller,Expense,Supplier Payment,45366,0.0,Cash,Karachi,Operating Expense,Loan installment
+TXN-2592,2025-01-20,Bradley Hamilton,Capital,Owner Investment,75769,0.0,Cash,Islamabad,Equity,Refund processed
+TXN-2593,2025-04-14,Rhonda Jordan,Refund,Supplier Refund,79729,0.0,Cheque,Karachi,Revenue Adjustment,Refund processed
+TXN-2594,2025-01-22,Daryl Warner,Liability,Tax Payable,53432,0.0,Cash,Lahore,Short-term Liability,New equipment
+TXN-2595,2025-03-18,Yvonne Cook,Refund,Customer Refund,51476,0.0,Cash,Islamabad,Revenue Adjustment,Marketing campaign
+TXN-2596,2025-01-19,Amanda Hill,Liability,Utility Bill Due,57139,0.0,Bank Transfer,Islamabad,Short-term Liability,Monthly bill
+TXN-2597,2025-01-26,Julia Meyer,Asset,New Machinery,17086,0.0,Cash,Islamabad,Fixed Asset,Refund processed
+TXN-2598,2025-01-28,Edward Mcknight,Expense,Staff Salary,99895,0.0,Cheque,Karachi,Operating Expense,New equipment
+TXN-2599,2025-04-09,Douglas Peterson,Liability,Tax Payable,15335,0.0,Bank Transfer,Faisalabad,Short-term Liability,Loan installment
+TXN-2600,2025-03-16,Samantha Garcia,Capital,Shareholder Equity,63742,0.0,Cheque,Lahore,Equity,Refund processed
+TXN-2601,2025-01-18,Mitchell Myers,Asset,Shop Inventory,57174,0.0,Card,Karachi,Current Asset,New equipment
+TXN-2602,2025-03-02,Thomas Hays,Liability,Utility Bill Due,9411,0.0,Cash,Karachi,Long-term Liability,Refund processed
+TXN-2603,2025-04-02,Chloe Blackburn,Refund,Supplier Refund,36232,0.0,Bank Transfer,Karachi,Revenue Adjustment,Marketing campaign
+TXN-2604,2025-01-31,Michael Sandoval,Liability,Supplier Credit,9016,0.0,Cheque,Lahore,Short-term Liability,Customer advance
+TXN-2605,2025-02-18,Andrea Garcia,Asset,Vehicle Purchase,59895,0.0,Bank Transfer,Lahore,Current Asset,Paid to supplier
+TXN-2606,2025-03-21,Maria Hernandez,Capital,Owner Investment,9785,0.0,Cheque,Lahore,Equity,Loan installment
+TXN-2607,2025-02-11,Leonard Vasquez,Liability,Utility Bill Due,80264,0.0,Cheque,Lahore,Short-term Liability,Customer advance
+TXN-2608,2025-03-11,Jonathan Tucker,Expense,Marketing,34181,0.0,Card,Faisalabad,Administrative Expense,Paid to supplier
+TXN-2609,2025-03-30,David Brooks,Income,Wheat Sale,34584,5879.28,Card,Islamabad,Revenue,Monthly bill
+TXN-2610,2025-04-08,Margaret Martin,Asset,Furniture,37651,0.0,Card,Islamabad,Fixed Asset,Customer advance
+TXN-2611,2025-04-05,Devin Rodriguez,Expense,Supplier Payment,80598,0.0,Cheque,Faisalabad,Operating Expense,Marketing campaign
+TXN-2612,2025-03-07,Chad Watson,Liability,Tax Payable,59065,0.0,Cheque,Lahore,Long-term Liability,Monthly bill
+TXN-2613,2025-03-08,Chad Boyer,Expense,Electricity Bill,21905,0.0,Card,Lahore,Administrative Expense,New equipment
+TXN-2614,2025-01-30,James Anderson,Asset,New Machinery,21128,0.0,Card,Lahore,Fixed Asset,Paid to supplier
+TXN-2615,2025-04-14,Jonathan Lara,Refund,Supplier Refund,49145,0.0,Card,Islamabad,Revenue Adjustment,Paid to supplier
+TXN-2616,2025-03-29,Kimberly Atkins,Refund,Supplier Refund,95562,0.0,Card,Karachi,Revenue Adjustment,Paid to supplier
+TXN-2617,2025-02-07,Danielle Clark,Liability,Utility Bill Due,39370,0.0,Bank Transfer,Karachi,Short-term Liability,Monthly bill
+TXN-2618,2025-02-04,Kimberly Rogers,Capital,Partner Fund,91326,0.0,Cheque,Lahore,Equity,Loan installment
+TXN-2619,2025-01-17,Matthew Hogan,Asset,Shop Inventory,6974,0.0,Card,Faisalabad,Current Asset,Customer advance
+TXN-2620,2025-02-09,Alexandria Lopez,Income,Rice Sale,29967,5094.39,Card,Karachi,Revenue,Monthly bill
+TXN-2621,2025-04-15,Sandra Holland,Refund,Supplier Refund,2908,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,Refund processed
+TXN-2622,2025-03-14,George Roberson,Liability,Tax Payable,25553,0.0,Cheque,Karachi,Long-term Liability,Paid to supplier
+TXN-2623,2025-04-10,David Rodriguez,Refund,Supplier Refund,26854,0.0,Bank Transfer,Lahore,Revenue Adjustment,Loan installment
+TXN-2624,2025-04-07,Cynthia Ballard,Expense,Electricity Bill,61418,0.0,Bank Transfer,Islamabad,Operating Expense,Paid to supplier
+TXN-2625,2025-02-24,Alexandria Rivera,Capital,Shareholder Equity,30070,0.0,Cheque,Karachi,Equity,Refund processed
+TXN-2626,2025-03-29,Scott Roman,Expense,Electricity Bill,77085,0.0,Cash,Lahore,Administrative Expense,Marketing campaign
+TXN-2627,2025-01-27,William Bailey,Income,Flour Sale,82379,14004.43,Card,Faisalabad,Revenue,Monthly bill
+TXN-2628,2025-03-19,Jessica Ellison,Capital,Partner Fund,58953,0.0,Bank Transfer,Faisalabad,Equity,Loan installment
+TXN-2629,2025-01-30,Stephen Velazquez,Expense,Marketing,48013,0.0,Cash,Karachi,Administrative Expense,Refund processed
+TXN-2630,2025-02-27,John Parker,Income,Rice Sale,69154,11756.18,Cash,Islamabad,Revenue,Refund processed
+TXN-2631,2025-03-19,Anthony Franklin,Asset,Shop Inventory,62893,0.0,Card,Faisalabad,Fixed Asset,Monthly bill
+TXN-2632,2025-03-02,Peter Fox,Capital,Owner Investment,76154,0.0,Bank Transfer,Islamabad,Equity,Marketing campaign
+TXN-2633,2025-03-08,Johnny Pittman,Income,Rice Sale,32618,5545.06,Card,Lahore,Revenue,Refund processed
+TXN-2634,2025-04-13,Kyle Ortega,Liability,Supplier Credit,19838,0.0,Cheque,Lahore,Short-term Liability,Loan installment
+TXN-2635,2025-03-01,Courtney Pham,Capital,Shareholder Equity,76978,0.0,Cheque,Karachi,Equity,New equipment
+TXN-2636,2025-02-28,Dalton Shelton,Liability,Tax Payable,28210,0.0,Card,Karachi,Long-term Liability,Loan installment
+TXN-2637,2025-01-28,Lindsey Reilly,Asset,Shop Inventory,23993,0.0,Cheque,Karachi,Current Asset,Marketing campaign
+TXN-2638,2025-01-19,Paul Brown,Liability,Utility Bill Due,59142,0.0,Card,Karachi,Short-term Liability,New equipment
+TXN-2639,2025-04-16,Julie Jefferson,Capital,Owner Investment,86900,0.0,Bank Transfer,Faisalabad,Equity,New equipment
+TXN-2640,2025-03-11,Carrie Thompson,Income,Sugar Sale,30710,5220.7,Bank Transfer,Faisalabad,Revenue,Monthly bill
+TXN-2641,2025-01-17,Brandon Brandt,Liability,Tax Payable,94259,0.0,Cheque,Karachi,Long-term Liability,Refund processed
+TXN-2642,2025-03-29,Mrs. Laura Baker,Refund,Customer Refund,17458,0.0,Cash,Faisalabad,Revenue Adjustment,Loan installment
+TXN-2643,2025-03-20,Paul Carter,Asset,Shop Inventory,32609,0.0,Bank Transfer,Islamabad,Current Asset,Customer advance
+TXN-2644,2025-04-05,Jerry Bush,Capital,Shareholder Equity,22355,0.0,Cheque,Lahore,Equity,Monthly bill
+TXN-2645,2025-03-29,Andrew Jones,Liability,Bank Loan,67647,0.0,Cash,Islamabad,Short-term Liability,Loan installment
+TXN-2646,2025-03-08,Kenneth Noble,Income,Flour Sale,43195,7343.15,Cheque,Karachi,Revenue,Loan installment
+TXN-2647,2025-02-08,Joseph Haynes,Income,Rice Sale,65753,11178.01,Cash,Lahore,Revenue,Refund processed
+TXN-2648,2025-01-28,Denise Gomez,Income,Oil Sale,4362,741.54,Cash,Islamabad,Revenue,Marketing campaign
+TXN-2649,2025-03-24,Susan Cooper,Income,Rice Sale,72779,12372.43,Bank Transfer,Faisalabad,Revenue,Refund processed
+TXN-2650,2025-03-17,Gary Anderson,Refund,Supplier Refund,47256,0.0,Cash,Karachi,Revenue Adjustment,New equipment
+TXN-2651,2025-03-22,Eric Murphy,Income,Oil Sale,62380,10604.6,Card,Lahore,Revenue,Loan installment
+TXN-2652,2025-04-08,Lisa Baldwin,Liability,Supplier Credit,79041,0.0,Card,Lahore,Long-term Liability,Marketing campaign
+TXN-2653,2025-04-13,Jennifer Schwartz,Expense,Supplier Payment,36461,0.0,Bank Transfer,Karachi,Operating Expense,Loan installment
+TXN-2654,2025-02-19,Matthew Frye DVM,Refund,Customer Refund,19657,0.0,Cheque,Lahore,Revenue Adjustment,Marketing campaign
+TXN-2655,2025-03-26,Eddie Medina,Refund,Customer Refund,37112,0.0,Bank Transfer,Lahore,Revenue Adjustment,Refund processed
+TXN-2656,2025-03-01,Cory Espinoza,Refund,Customer Refund,57376,0.0,Cheque,Karachi,Revenue Adjustment,Refund processed
+TXN-2657,2025-03-07,Jennifer Cox,Expense,Supplier Payment,5719,0.0,Cash,Faisalabad,Operating Expense,Refund processed
+TXN-2658,2025-01-30,Sara Cruz,Expense,Staff Salary,41474,0.0,Cash,Lahore,Operating Expense,Refund processed
+TXN-2659,2025-03-24,John Duarte,Expense,Marketing,20161,0.0,Bank Transfer,Lahore,Administrative Expense,Loan installment
+TXN-2660,2025-04-16,Michael Ochoa,Refund,Customer Refund,26165,0.0,Cheque,Islamabad,Revenue Adjustment,Refund processed
+TXN-2661,2025-02-18,Susan Floyd,Liability,Supplier Credit,72262,0.0,Cash,Lahore,Short-term Liability,New equipment
+TXN-2662,2025-03-09,Tonya Tran,Asset,New Machinery,40626,0.0,Bank Transfer,Lahore,Current Asset,Marketing campaign
+TXN-2663,2025-01-23,William Lawson II,Refund,Customer Refund,83490,0.0,Card,Karachi,Revenue Adjustment,Monthly bill
+TXN-2664,2025-02-18,Keith Wong,Liability,Supplier Credit,53289,0.0,Cash,Karachi,Short-term Liability,Refund processed
+TXN-2665,2025-03-05,Lisa Henry,Expense,Electricity Bill,28413,0.0,Card,Islamabad,Administrative Expense,Monthly bill
+TXN-2666,2025-04-08,Kimberly Hughes,Income,Oil Sale,92374,15703.58,Cheque,Lahore,Revenue,Marketing campaign
+TXN-2667,2025-04-09,Ashley Wang,Capital,Shareholder Equity,44944,0.0,Bank Transfer,Karachi,Equity,Marketing campaign
+TXN-2668,2025-02-05,Laura Guzman,Asset,Furniture,88019,0.0,Cheque,Islamabad,Current Asset,Customer advance
+TXN-2669,2025-02-13,Dustin Padilla,Asset,Shop Inventory,31345,0.0,Bank Transfer,Karachi,Fixed Asset,Marketing campaign
+TXN-2670,2025-03-28,Madison Schmitt,Capital,Partner Fund,50651,0.0,Bank Transfer,Lahore,Equity,Paid to supplier
+TXN-2671,2025-03-10,Megan Richardson,Asset,New Machinery,11850,0.0,Cash,Karachi,Current Asset,Marketing campaign
+TXN-2672,2025-03-01,Michael Myers,Refund,Supplier Refund,4500,0.0,Cash,Islamabad,Revenue Adjustment,Customer advance
+TXN-2673,2025-03-05,Christopher Kirk,Expense,Marketing,28365,0.0,Cheque,Faisalabad,Operating Expense,Monthly bill
+TXN-2674,2025-02-05,Robert Patel,Refund,Customer Refund,48561,0.0,Card,Islamabad,Revenue Adjustment,Paid to supplier
+TXN-2675,2025-01-21,Jennifer Rosales,Liability,Tax Payable,28332,0.0,Bank Transfer,Karachi,Short-term Liability,Paid to supplier
+TXN-2676,2025-02-03,Rebecca Kent,Expense,Staff Salary,41186,0.0,Bank Transfer,Lahore,Administrative Expense,Customer advance
+TXN-2677,2025-01-18,Stephanie Wilson,Capital,Shareholder Equity,728,0.0,Cheque,Karachi,Equity,Monthly bill
+TXN-2678,2025-02-06,Sheila Stanton,Expense,Electricity Bill,51083,0.0,Cheque,Islamabad,Operating Expense,Paid to supplier
+TXN-2679,2025-02-17,Ryan Clayton,Liability,Utility Bill Due,95844,0.0,Bank Transfer,Lahore,Short-term Liability,Marketing campaign
+TXN-2680,2025-03-04,Jacqueline Mcmahon,Expense,Electricity Bill,32565,0.0,Bank Transfer,Islamabad,Operating Expense,New equipment
+TXN-2681,2025-03-20,Jessica Porter,Capital,Shareholder Equity,78989,0.0,Card,Karachi,Equity,New equipment
+TXN-2682,2025-01-17,Daniel Rangel,Refund,Supplier Refund,62479,0.0,Cash,Faisalabad,Revenue Adjustment,Loan installment
+TXN-2683,2025-03-07,William Lucas,Refund,Customer Refund,6944,0.0,Card,Islamabad,Revenue Adjustment,Refund processed
+TXN-2684,2025-04-10,Susan Castro,Capital,Owner Investment,87983,0.0,Cheque,Islamabad,Equity,Paid to supplier
+TXN-2685,2025-03-19,Mary Barry,Refund,Customer Refund,918,0.0,Cash,Faisalabad,Revenue Adjustment,Paid to supplier
+TXN-2686,2025-04-07,James Gonzales,Income,Flour Sale,92386,15705.62,Cash,Karachi,Revenue,Loan installment
+TXN-2687,2025-03-01,Scott Dyer,Income,Wheat Sale,73755,12538.35,Card,Lahore,Revenue,Paid to supplier
+TXN-2688,2025-03-08,Erin Carpenter,Refund,Supplier Refund,54231,0.0,Cash,Islamabad,Revenue Adjustment,Monthly bill
+TXN-2689,2025-03-08,Carrie Sanchez,Asset,New Machinery,90778,0.0,Cheque,Karachi,Fixed Asset,Refund processed
+TXN-2690,2025-03-29,Lance Maldonado,Income,Oil Sale,15847,2693.99,Cheque,Islamabad,Revenue,New equipment
+TXN-2691,2025-04-03,Charles Freeman,Liability,Supplier Credit,99016,0.0,Bank Transfer,Karachi,Long-term Liability,Marketing campaign
+TXN-2692,2025-04-02,James Garza,Income,Sugar Sale,73549,12503.33,Cheque,Lahore,Revenue,Loan installment
+TXN-2693,2025-03-16,Abigail Rose,Capital,Shareholder Equity,58313,0.0,Card,Lahore,Equity,Monthly bill
+TXN-2694,2025-01-31,Julie Thompson,Refund,Customer Refund,76340,0.0,Cash,Karachi,Revenue Adjustment,Refund processed
+TXN-2695,2025-01-27,John Flores,Liability,Supplier Credit,9749,0.0,Cash,Faisalabad,Short-term Liability,Marketing campaign
+TXN-2696,2025-02-15,Jillian Erickson,Expense,Supplier Payment,87046,0.0,Cheque,Islamabad,Administrative Expense,Loan installment
+TXN-2697,2025-03-11,Elizabeth Marks,Capital,Partner Fund,82194,0.0,Card,Karachi,Equity,Monthly bill
+TXN-2698,2025-02-26,Susan Baker,Income,Sugar Sale,81751,13897.67,Card,Islamabad,Revenue,Marketing campaign
+TXN-2699,2025-03-27,Mrs. Cheryl Harris MD,Income,Rice Sale,53386,9075.62,Cash,Islamabad,Revenue,Monthly bill
+TXN-2700,2025-03-20,Jessica Collins,Capital,Partner Fund,32685,0.0,Card,Lahore,Equity,New equipment
+TXN-2701,2025-04-03,Daniel Stewart,Income,Flour Sale,1209,205.53,Bank Transfer,Faisalabad,Revenue,New equipment
+TXN-2702,2025-01-20,Kelly Adams,Liability,Utility Bill Due,76881,0.0,Card,Islamabad,Short-term Liability,Loan installment
+TXN-2703,2025-03-31,Erik Bailey,Income,Flour Sale,99809,16967.53,Card,Islamabad,Revenue,New equipment
+TXN-2704,2025-04-02,Laura Cline,Income,Flour Sale,1526,259.42,Cash,Islamabad,Revenue,Customer advance
+TXN-2705,2025-02-23,Thomas Garza,Asset,New Machinery,55547,0.0,Cash,Islamabad,Current Asset,Monthly bill
+TXN-2706,2025-03-29,Pamela Watkins,Refund,Customer Refund,77377,0.0,Bank Transfer,Islamabad,Revenue Adjustment,Marketing campaign
+TXN-2707,2025-02-17,Dawn Johnson,Asset,Vehicle Purchase,33898,0.0,Card,Islamabad,Current Asset,Loan installment
+TXN-2708,2025-02-18,Patricia Carter,Refund,Supplier Refund,42190,0.0,Cheque,Islamabad,Revenue Adjustment,New equipment
+TXN-2709,2025-02-20,Katie Cochran,Capital,Shareholder Equity,28013,0.0,Cheque,Lahore,Equity,Paid to supplier
+TXN-2710,2025-03-09,Kirk Juarez,Asset,Shop Inventory,14701,0.0,Card,Karachi,Fixed Asset,Loan installment
+TXN-2711,2025-03-25,Ashley Bridges,Expense,Electricity Bill,96985,0.0,Bank Transfer,Faisalabad,Administrative Expense,Marketing campaign
+TXN-2712,2025-02-15,Jasmine Campbell,Capital,Shareholder Equity,20770,0.0,Cheque,Karachi,Equity,Paid to supplier
+TXN-2713,2025-01-29,Tyler Bell,Income,Flour Sale,81103,13787.51,Bank Transfer,Islamabad,Revenue,Paid to supplier
+TXN-2714,2025-02-02,Melissa Brown,Asset,Vehicle Purchase,28150,0.0,Card,Lahore,Current Asset,New equipment
+TXN-2715,2025-01-22,Gregory Jennings,Liability,Supplier Credit,60465,0.0,Card,Lahore,Short-term Liability,Paid to supplier
+TXN-2716,2025-04-05,Brett Davis,Income,Rice Sale,28640,4868.8,Card,Faisalabad,Revenue,Loan installment
+TXN-2717,2025-04-11,Scott Franklin,Capital,Partner Fund,77392,0.0,Cheque,Islamabad,Equity,Refund processed
+TXN-2718,2025-01-22,Katherine Perkins,Capital,Owner Investment,42090,0.0,Card,Lahore,Equity,New equipment
+TXN-2719,2025-04-08,Stephanie Sullivan,Liability,Utility Bill Due,7896,0.0,Card,Karachi,Long-term Liability,Marketing campaign
+TXN-2720,2025-02-13,James Baker,Liability,Tax Payable,36468,0.0,Bank Transfer,Faisalabad,Short-term Liability,Refund processed
+TXN-2721,2025-03-22,Troy Nielsen,Refund,Supplier Refund,47531,0.0,Card,Islamabad,Revenue Adjustment,Customer advance
+TXN-2722,2025-03-05,Mitchell Alvarez,Income,Flour Sale,25727,4373.59,Cheque,Karachi,Revenue,Customer advance
+TXN-2723,2025-03-19,Thomas Murphy,Expense,Marketing,4861,0.0,Bank Transfer,Faisalabad,Operating Expense,Customer advance
+TXN-2724,2025-01-17,Eric Jones,Capital,Partner Fund,41723,0.0,Cash,Faisalabad,Equity,Loan installment
+TXN-2725,2025-04-05,Cassandra Lynn,Asset,Furniture,5133,0.0,Cash,Karachi,Fixed Asset,Marketing campaign
+TXN-2726,2025-03-12,Cindy Moore,Refund,Customer Refund,69502,0.0,Bank Transfer,Islamabad,Revenue Adjustment,Customer advance
+TXN-2727,2025-02-12,Bryan Giles,Expense,Marketing,8399,0.0,Cash,Faisalabad,Administrative Expense,Monthly bill
+TXN-2728,2025-02-25,Joshua Brennan,Refund,Customer Refund,67765,0.0,Bank Transfer,Islamabad,Revenue Adjustment,Customer advance
+TXN-2729,2025-02-28,Robert Morrison,Expense,Supplier Payment,87049,0.0,Card,Karachi,Administrative Expense,Customer advance
+TXN-2730,2025-02-13,Jonathan Davenport,Capital,Owner Investment,62851,0.0,Cheque,Faisalabad,Equity,Marketing campaign
+TXN-2731,2025-04-09,Manuel Carter MD,Asset,Furniture,80945,0.0,Bank Transfer,Lahore,Current Asset,Monthly bill
+TXN-2732,2025-03-26,David Tucker,Expense,Electricity Bill,17537,0.0,Card,Faisalabad,Administrative Expense,New equipment
+TXN-2733,2025-03-23,Kenneth Mitchell,Income,Rice Sale,24049,4088.33,Bank Transfer,Lahore,Revenue,Customer advance
+TXN-2734,2025-02-03,Judith Paul,Refund,Customer Refund,64822,0.0,Card,Islamabad,Revenue Adjustment,Customer advance
+TXN-2735,2025-03-27,Michael Peterson,Refund,Customer Refund,3353,0.0,Cheque,Lahore,Revenue Adjustment,Customer advance
+TXN-2736,2025-01-29,Carlos Richardson,Capital,Owner Investment,86609,0.0,Card,Islamabad,Equity,Loan installment
+TXN-2737,2025-03-28,Alice Lee,Income,Flour Sale,49383,8395.11,Card,Islamabad,Revenue,Marketing campaign
+TXN-2738,2025-04-01,Christy Smith,Capital,Shareholder Equity,11070,0.0,Card,Lahore,Equity,Monthly bill
+TXN-2739,2025-02-01,Michelle Rosales,Capital,Partner Fund,82972,0.0,Cash,Karachi,Equity,Paid to supplier
+TXN-2740,2025-02-19,Darlene Brown,Capital,Partner Fund,76146,0.0,Cash,Islamabad,Equity,Customer advance
+TXN-2741,2025-01-18,Veronica Davila,Refund,Customer Refund,28617,0.0,Bank Transfer,Karachi,Revenue Adjustment,Monthly bill
+TXN-2742,2025-03-13,Sandra Brown,Capital,Partner Fund,24755,0.0,Card,Islamabad,Equity,New equipment
+TXN-2743,2025-04-04,Nicholas Roberts,Liability,Bank Loan,96160,0.0,Cheque,Karachi,Short-term Liability,Marketing campaign
+TXN-2744,2025-03-16,Olivia Bonilla,Expense,Shop Rent,95795,0.0,Bank Transfer,Lahore,Administrative Expense,Customer advance
+TXN-2745,2025-04-08,George Chavez,Liability,Tax Payable,66002,0.0,Card,Karachi,Short-term Liability,Marketing campaign
+TXN-2746,2025-02-12,Robin Swanson,Capital,Owner Investment,36240,0.0,Cheque,Karachi,Equity,Refund processed
+TXN-2747,2025-02-15,Jose Freeman,Expense,Shop Rent,53857,0.0,Cheque,Faisalabad,Administrative Expense,Loan installment
+TXN-2748,2025-04-03,Beth Sanders,Income,Oil Sale,23639,4018.63,Cash,Faisalabad,Revenue,Loan installment
+TXN-2749,2025-02-18,Laura Aguilar,Asset,New Machinery,52002,0.0,Bank Transfer,Lahore,Fixed Asset,Paid to supplier
+TXN-2750,2025-03-11,Angela Mcdonald,Income,Sugar Sale,36859,6266.03,Card,Islamabad,Revenue,Customer advance
+TXN-2751,2025-02-16,Johnathan Miller,Liability,Tax Payable,27277,0.0,Bank Transfer,Islamabad,Short-term Liability,Marketing campaign
+TXN-2752,2025-01-17,Erika Edwards,Expense,Electricity Bill,3267,0.0,Card,Islamabad,Administrative Expense,Customer advance
+TXN-2753,2025-02-25,Dale Hamilton,Expense,Shop Rent,22149,0.0,Cash,Islamabad,Administrative Expense,Customer advance
+TXN-2754,2025-03-20,Erin Peterson,Liability,Utility Bill Due,35971,0.0,Bank Transfer,Lahore,Long-term Liability,Marketing campaign
+TXN-2755,2025-01-31,Lindsey Lowe,Refund,Customer Refund,18705,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,New equipment
+TXN-2756,2025-03-05,David Weber,Refund,Supplier Refund,75729,0.0,Bank Transfer,Islamabad,Revenue Adjustment,Customer advance
+TXN-2757,2025-02-16,Lisa Webb,Capital,Shareholder Equity,81808,0.0,Cash,Faisalabad,Equity,Loan installment
+TXN-2758,2025-03-05,Emily Underwood,Liability,Bank Loan,89394,0.0,Cash,Faisalabad,Short-term Liability,Customer advance
+TXN-2759,2025-01-18,Donald Alvarez,Refund,Customer Refund,36659,0.0,Cash,Faisalabad,Revenue Adjustment,Paid to supplier
+TXN-2760,2025-03-25,Rachel Howard,Refund,Supplier Refund,64276,0.0,Card,Karachi,Revenue Adjustment,Customer advance
+TXN-2761,2025-03-02,Larry Moore,Refund,Customer Refund,19758,0.0,Cheque,Islamabad,Revenue Adjustment,Marketing campaign
+TXN-2762,2025-04-13,Jennifer Williams,Liability,Tax Payable,40194,0.0,Cheque,Faisalabad,Short-term Liability,Loan installment
+TXN-2763,2025-02-13,Katherine Maxwell,Capital,Shareholder Equity,45267,0.0,Bank Transfer,Islamabad,Equity,Paid to supplier
+TXN-2764,2025-03-17,Thomas Wright,Income,Flour Sale,411,69.87,Cheque,Faisalabad,Revenue,Marketing campaign
+TXN-2765,2025-03-02,Laurie Alexander,Refund,Supplier Refund,8667,0.0,Cash,Lahore,Revenue Adjustment,Marketing campaign
+TXN-2766,2025-01-28,Robert Miranda,Capital,Shareholder Equity,5473,0.0,Cash,Faisalabad,Equity,New equipment
+TXN-2767,2025-02-16,Randy Brown,Income,Flour Sale,94812,16118.04,Card,Lahore,Revenue,Loan installment
+TXN-2768,2025-04-02,Gregory Cook,Refund,Customer Refund,71112,0.0,Card,Islamabad,Revenue Adjustment,Monthly bill
+TXN-2769,2025-04-16,Lisa Johnson,Capital,Shareholder Equity,40360,0.0,Cash,Karachi,Equity,New equipment
+TXN-2770,2025-03-22,Lorraine Morrison,Refund,Customer Refund,39907,0.0,Bank Transfer,Islamabad,Revenue Adjustment,New equipment
+TXN-2771,2025-03-25,Victoria Lewis,Refund,Supplier Refund,84170,0.0,Cheque,Karachi,Revenue Adjustment,Loan installment
+TXN-2772,2025-04-15,Kathleen Conner,Liability,Utility Bill Due,33917,0.0,Card,Lahore,Long-term Liability,Paid to supplier
+TXN-2773,2025-02-16,Cynthia Barajas,Asset,Furniture,59830,0.0,Cash,Faisalabad,Current Asset,Loan installment
+TXN-2774,2025-01-17,Chelsea Watson,Liability,Utility Bill Due,92062,0.0,Cash,Karachi,Short-term Liability,Customer advance
+TXN-2775,2025-03-11,Andrew Green,Refund,Customer Refund,20779,0.0,Bank Transfer,Karachi,Revenue Adjustment,Customer advance
+TXN-2776,2025-03-23,Charles Walker,Refund,Supplier Refund,50316,0.0,Card,Faisalabad,Revenue Adjustment,Paid to supplier
+TXN-2777,2025-03-18,James Zhang,Asset,New Machinery,18686,0.0,Card,Lahore,Current Asset,New equipment
+TXN-2778,2025-03-02,Marcus Thompson,Asset,New Machinery,33223,0.0,Bank Transfer,Faisalabad,Current Asset,Monthly bill
+TXN-2779,2025-01-21,Brandi Martin,Refund,Supplier Refund,38408,0.0,Cheque,Lahore,Revenue Adjustment,Monthly bill
+TXN-2780,2025-02-23,Katrina Spears,Expense,Shop Rent,72204,0.0,Card,Karachi,Administrative Expense,Refund processed
+TXN-2781,2025-04-16,David Hampton,Liability,Tax Payable,90676,0.0,Cheque,Islamabad,Long-term Liability,Monthly bill
+TXN-2782,2025-01-27,Erin Short,Refund,Supplier Refund,45831,0.0,Cheque,Lahore,Revenue Adjustment,Paid to supplier
+TXN-2783,2025-01-25,Amy Rodriguez,Liability,Bank Loan,20474,0.0,Card,Islamabad,Long-term Liability,Monthly bill
+TXN-2784,2025-01-17,David Petersen,Capital,Owner Investment,21422,0.0,Card,Faisalabad,Equity,Refund processed
+TXN-2785,2025-02-26,Donna Spencer,Expense,Shop Rent,81748,0.0,Cheque,Karachi,Operating Expense,Monthly bill
+TXN-2786,2025-02-21,Stephanie Guzman,Income,Flour Sale,52908,8994.36,Card,Karachi,Revenue,New equipment
+TXN-2787,2025-02-03,Stacey Johnson,Capital,Shareholder Equity,26446,0.0,Bank Transfer,Lahore,Equity,Customer advance
+TXN-2788,2025-03-18,Gregory Wood,Refund,Supplier Refund,40129,0.0,Cheque,Lahore,Revenue Adjustment,Loan installment
+TXN-2789,2025-03-11,Katherine Hall,Capital,Shareholder Equity,76178,0.0,Bank Transfer,Islamabad,Equity,Refund processed
+TXN-2790,2025-01-28,Jennifer Butler,Income,Rice Sale,74611,12683.87,Card,Karachi,Revenue,Customer advance
+TXN-2791,2025-02-23,Abigail Lin,Refund,Customer Refund,20570,0.0,Bank Transfer,Karachi,Revenue Adjustment,Paid to supplier
+TXN-2792,2025-03-19,Duane West,Income,Sugar Sale,41139,6993.63,Cash,Islamabad,Revenue,Paid to supplier
+TXN-2793,2025-02-16,Vicki Shelton,Capital,Partner Fund,82758,0.0,Bank Transfer,Karachi,Equity,New equipment
+TXN-2794,2025-04-13,Kelly Davis,Capital,Owner Investment,24064,0.0,Cheque,Faisalabad,Equity,Customer advance
+TXN-2795,2025-02-06,Eric Harris,Expense,Supplier Payment,72494,0.0,Cash,Lahore,Operating Expense,Marketing campaign
+TXN-2796,2025-04-03,Tiffany Smith,Capital,Shareholder Equity,42893,0.0,Bank Transfer,Faisalabad,Equity,Refund processed
+TXN-2797,2025-03-13,Valerie Moore,Income,Rice Sale,65475,11130.75,Cash,Islamabad,Revenue,Paid to supplier
+TXN-2798,2025-01-24,Mrs. Laura Cole,Income,Oil Sale,3451,586.67,Card,Karachi,Revenue,Monthly bill
+TXN-2799,2025-04-04,Maria Taylor,Refund,Customer Refund,54731,0.0,Cash,Islamabad,Revenue Adjustment,Paid to supplier
+TXN-2800,2025-01-26,Patrick Sims,Refund,Customer Refund,12163,0.0,Bank Transfer,Lahore,Revenue Adjustment,Loan installment
+TXN-2801,2025-03-13,Jessica Martinez,Income,Oil Sale,93076,15822.92,Cheque,Lahore,Revenue,Refund processed
+TXN-2802,2025-02-11,Deanna Pittman,Capital,Owner Investment,48900,0.0,Cash,Faisalabad,Equity,New equipment
+TXN-2803,2025-02-14,Kevin Martin,Liability,Utility Bill Due,92843,0.0,Cash,Lahore,Long-term Liability,New equipment
+TXN-2804,2025-02-22,Alexander Mcmahon,Income,Flour Sale,15091,2565.47,Cash,Karachi,Revenue,New equipment
+TXN-2805,2025-03-30,Johnny Taylor,Capital,Partner Fund,22908,0.0,Card,Lahore,Equity,Monthly bill
+TXN-2806,2025-03-11,Autumn Blair,Refund,Customer Refund,43328,0.0,Cheque,Faisalabad,Revenue Adjustment,Monthly bill
+TXN-2807,2025-03-12,Natasha Martin,Expense,Marketing,54549,0.0,Cash,Lahore,Administrative Expense,New equipment
+TXN-2808,2025-01-28,Nathan Wood,Expense,Supplier Payment,75999,0.0,Bank Transfer,Karachi,Operating Expense,Loan installment
+TXN-2809,2025-04-15,Emily Atkinson,Expense,Shop Rent,13395,0.0,Card,Karachi,Administrative Expense,Marketing campaign
+TXN-2810,2025-03-16,Courtney Shelton,Liability,Utility Bill Due,92436,0.0,Card,Karachi,Short-term Liability,New equipment
+TXN-2811,2025-02-13,Tony Brown,Capital,Shareholder Equity,14839,0.0,Cash,Islamabad,Equity,Monthly bill
+TXN-2812,2025-01-17,William Reed,Expense,Shop Rent,54310,0.0,Cheque,Karachi,Administrative Expense,Customer advance
+TXN-2813,2025-03-22,Jennifer Kelly,Expense,Electricity Bill,37126,0.0,Card,Faisalabad,Administrative Expense,New equipment
+TXN-2814,2025-03-30,Christian May,Capital,Partner Fund,30836,0.0,Card,Islamabad,Equity,Loan installment
+TXN-2815,2025-04-14,Alyssa Ramirez,Refund,Supplier Refund,13647,0.0,Cheque,Faisalabad,Revenue Adjustment,Loan installment
+TXN-2816,2025-03-28,John David,Asset,Furniture,95964,0.0,Card,Lahore,Fixed Asset,Customer advance
+TXN-2817,2025-03-23,Ricky Harris,Capital,Owner Investment,44711,0.0,Cash,Karachi,Equity,Marketing campaign
+TXN-2818,2025-01-29,Malik Stevenson,Expense,Supplier Payment,46951,0.0,Card,Islamabad,Administrative Expense,Paid to supplier
+TXN-2819,2025-04-14,Tasha Munoz,Capital,Shareholder Equity,3124,0.0,Cash,Karachi,Equity,Loan installment
+TXN-2820,2025-04-16,Daniel Steele,Capital,Owner Investment,97807,0.0,Cash,Karachi,Equity,New equipment
+TXN-2821,2025-02-14,Billy Boyle,Refund,Customer Refund,61248,0.0,Card,Faisalabad,Revenue Adjustment,Customer advance
+TXN-2822,2025-04-04,Greg Valdez,Refund,Customer Refund,50444,0.0,Bank Transfer,Lahore,Revenue Adjustment,Loan installment
+TXN-2823,2025-03-21,Steve Lopez,Capital,Partner Fund,55807,0.0,Card,Karachi,Equity,New equipment
+TXN-2824,2025-03-22,Brian Smith,Income,Rice Sale,90666,15413.22,Cheque,Faisalabad,Revenue,Marketing campaign
+TXN-2825,2025-03-28,Mary Taylor,Asset,New Machinery,62549,0.0,Card,Islamabad,Fixed Asset,Paid to supplier
+TXN-2826,2025-02-26,Debra Fitzgerald,Refund,Supplier Refund,59440,0.0,Bank Transfer,Islamabad,Revenue Adjustment,Marketing campaign
+TXN-2827,2025-01-18,Anthony Martin,Capital,Partner Fund,53925,0.0,Cheque,Lahore,Equity,Paid to supplier
+TXN-2828,2025-03-22,Maria Ruiz,Asset,New Machinery,26600,0.0,Cheque,Islamabad,Current Asset,Refund processed
+TXN-2829,2025-02-27,Becky Blair,Refund,Customer Refund,58554,0.0,Card,Islamabad,Revenue Adjustment,Loan installment
+TXN-2830,2025-02-18,Jason Bell,Liability,Supplier Credit,60164,0.0,Card,Karachi,Short-term Liability,Refund processed
+TXN-2831,2025-01-20,Mary Burgess,Capital,Shareholder Equity,23997,0.0,Cash,Karachi,Equity,Marketing campaign
+TXN-2832,2025-03-10,Jennifer Guerra,Expense,Staff Salary,97470,0.0,Card,Karachi,Operating Expense,Marketing campaign
+TXN-2833,2025-02-07,Timothy Robinson,Refund,Supplier Refund,86220,0.0,Cheque,Islamabad,Revenue Adjustment,Refund processed
+TXN-2834,2025-02-09,Christopher Ellis,Asset,Furniture,55143,0.0,Card,Karachi,Current Asset,Paid to supplier
+TXN-2835,2025-03-27,Tiffany Swanson,Income,Sugar Sale,62666,10653.22,Bank Transfer,Faisalabad,Revenue,New equipment
+TXN-2836,2025-03-14,Russell Wilson,Refund,Supplier Refund,45862,0.0,Cheque,Faisalabad,Revenue Adjustment,Monthly bill
+TXN-2837,2025-03-17,James Richardson,Asset,New Machinery,37517,0.0,Bank Transfer,Lahore,Fixed Asset,Paid to supplier
+TXN-2838,2025-02-26,Todd Bryant,Refund,Customer Refund,42815,0.0,Card,Faisalabad,Revenue Adjustment,Marketing campaign
+TXN-2839,2025-02-03,Brittany Wright,Income,Rice Sale,69591,11830.47,Cheque,Islamabad,Revenue,Paid to supplier
+TXN-2840,2025-02-22,Kayla Mcgee,Asset,New Machinery,41669,0.0,Card,Karachi,Fixed Asset,Monthly bill
+TXN-2841,2025-02-13,Jeffery Thomas,Capital,Owner Investment,45907,0.0,Bank Transfer,Faisalabad,Equity,Marketing campaign
+TXN-2842,2025-02-18,Anthony Bailey,Refund,Supplier Refund,80905,0.0,Bank Transfer,Karachi,Revenue Adjustment,Paid to supplier
+TXN-2843,2025-02-05,James Banks,Capital,Partner Fund,50697,0.0,Card,Lahore,Equity,Loan installment
+TXN-2844,2025-01-17,Savannah Morgan,Income,Flour Sale,83821,14249.57,Card,Lahore,Revenue,Refund processed
+TXN-2845,2025-02-10,Sandra Campbell,Income,Flour Sale,27355,4650.35,Cash,Karachi,Revenue,Marketing campaign
+TXN-2846,2025-02-27,Brandon Johnson,Liability,Bank Loan,85713,0.0,Cheque,Islamabad,Long-term Liability,Paid to supplier
+TXN-2847,2025-03-27,Colleen Simmons,Refund,Supplier Refund,44615,0.0,Cash,Karachi,Revenue Adjustment,Loan installment
+TXN-2848,2025-03-05,Arthur Harper,Income,Flour Sale,77571,13187.07,Cheque,Karachi,Revenue,Refund processed
+TXN-2849,2025-01-28,Beverly Garcia,Refund,Supplier Refund,22682,0.0,Card,Faisalabad,Revenue Adjustment,Refund processed
+TXN-2850,2025-04-09,Michele Mata,Liability,Tax Payable,1805,0.0,Card,Faisalabad,Short-term Liability,Refund processed
+TXN-2851,2025-04-14,Mark Cameron,Expense,Staff Salary,70817,0.0,Card,Karachi,Administrative Expense,Refund processed
+TXN-2852,2025-04-03,Rhonda Little,Income,Oil Sale,3252,552.84,Bank Transfer,Islamabad,Revenue,Refund processed
+TXN-2853,2025-01-29,Marvin Zhang,Refund,Supplier Refund,82612,0.0,Cheque,Faisalabad,Revenue Adjustment,Marketing campaign
+TXN-2854,2025-03-11,Heather Watson,Capital,Shareholder Equity,96399,0.0,Card,Faisalabad,Equity,New equipment
+TXN-2855,2025-04-15,Michael Boyle,Liability,Supplier Credit,48612,0.0,Cash,Karachi,Short-term Liability,Loan installment
+TXN-2856,2025-03-05,Jerry Rodriguez,Capital,Shareholder Equity,63343,0.0,Cash,Lahore,Equity,New equipment
+TXN-2857,2025-03-30,Jordan Brooks,Expense,Shop Rent,51767,0.0,Bank Transfer,Islamabad,Operating Expense,Marketing campaign
+TXN-2858,2025-01-17,Timothy Ford,Capital,Owner Investment,34742,0.0,Cheque,Islamabad,Equity,Customer advance
+TXN-2859,2025-02-16,Monica Mullen,Income,Wheat Sale,22786,3873.62,Cash,Karachi,Revenue,Loan installment
+TXN-2860,2025-03-04,Denise Hudson,Income,Rice Sale,76448,12996.16,Bank Transfer,Islamabad,Revenue,Monthly bill
+TXN-2861,2025-02-01,Taylor Gibson,Expense,Electricity Bill,3616,0.0,Bank Transfer,Karachi,Administrative Expense,Refund processed
+TXN-2862,2025-02-26,Belinda Dudley,Liability,Bank Loan,9587,0.0,Cash,Faisalabad,Short-term Liability,Customer advance
+TXN-2863,2025-02-15,Nicole Boyd,Asset,Vehicle Purchase,91374,0.0,Cheque,Lahore,Current Asset,Paid to supplier
+TXN-2864,2025-03-31,Lindsey Morris,Income,Sugar Sale,1051,178.67,Cash,Karachi,Revenue,Monthly bill
+TXN-2865,2025-03-11,Jennifer Barnett,Liability,Utility Bill Due,96550,0.0,Card,Islamabad,Long-term Liability,Customer advance
+TXN-2866,2025-02-03,Lisa Aguilar,Liability,Bank Loan,46910,0.0,Cash,Islamabad,Long-term Liability,Paid to supplier
+TXN-2867,2025-03-11,Kimberly Kelly,Liability,Supplier Credit,68035,0.0,Cheque,Islamabad,Short-term Liability,Refund processed
+TXN-2868,2025-03-20,Kyle Graves,Income,Rice Sale,37886,6440.62,Cash,Lahore,Revenue,Monthly bill
+TXN-2869,2025-02-03,Raymond Gibson,Asset,Vehicle Purchase,8928,0.0,Card,Islamabad,Current Asset,Refund processed
+TXN-2870,2025-02-02,Tracy Smith,Refund,Customer Refund,236,0.0,Cheque,Karachi,Revenue Adjustment,Customer advance
+TXN-2871,2025-04-16,Joshua Ryan,Asset,Furniture,1872,0.0,Cheque,Islamabad,Current Asset,Refund processed
+TXN-2872,2025-02-12,Latasha Wyatt,Asset,Shop Inventory,15201,0.0,Cheque,Karachi,Fixed Asset,Refund processed
+TXN-2873,2025-02-26,Douglas Ramirez,Expense,Shop Rent,32024,0.0,Cash,Karachi,Operating Expense,Customer advance
+TXN-2874,2025-03-27,Michael Blake,Expense,Marketing,94940,0.0,Cheque,Karachi,Administrative Expense,New equipment
+TXN-2875,2025-03-11,Barbara Robinson,Expense,Electricity Bill,23299,0.0,Cash,Lahore,Operating Expense,Refund processed
+TXN-2876,2025-01-25,Rebecca Fowler,Asset,New Machinery,86146,0.0,Cash,Islamabad,Current Asset,Refund processed
+TXN-2877,2025-02-09,Linda Carpenter,Expense,Shop Rent,41140,0.0,Cash,Lahore,Operating Expense,Refund processed
+TXN-2878,2025-02-04,Katherine Fernandez,Asset,Vehicle Purchase,35535,0.0,Cheque,Karachi,Fixed Asset,Refund processed
+TXN-2879,2025-02-18,Crystal Kirby,Asset,Furniture,62684,0.0,Bank Transfer,Lahore,Fixed Asset,New equipment
+TXN-2880,2025-03-27,Carolyn Green,Liability,Utility Bill Due,51443,0.0,Card,Karachi,Long-term Liability,Monthly bill
+TXN-2881,2025-03-08,Charles Harris,Income,Sugar Sale,16775,2851.75,Cash,Faisalabad,Revenue,Customer advance
+TXN-2882,2025-03-08,Eric Miller Jr.,Income,Oil Sale,1841,312.97,Cheque,Karachi,Revenue,Customer advance
+TXN-2883,2025-03-21,Noah Moore,Asset,New Machinery,64727,0.0,Bank Transfer,Faisalabad,Fixed Asset,Marketing campaign
+TXN-2884,2025-01-17,Tammy White,Asset,Vehicle Purchase,86434,0.0,Card,Faisalabad,Current Asset,Refund processed
+TXN-2885,2025-03-11,William Miller,Refund,Supplier Refund,36918,0.0,Cheque,Karachi,Revenue Adjustment,New equipment
+TXN-2886,2025-03-01,Cheyenne Weber,Capital,Partner Fund,10009,0.0,Bank Transfer,Karachi,Equity,Paid to supplier
+TXN-2887,2025-03-13,Jennifer Clark DDS,Liability,Utility Bill Due,30503,0.0,Cheque,Karachi,Short-term Liability,Paid to supplier
+TXN-2888,2025-04-11,Donna White,Expense,Electricity Bill,19593,0.0,Card,Faisalabad,Administrative Expense,Refund processed
+TXN-2889,2025-03-03,Elizabeth Eaton,Asset,Vehicle Purchase,37861,0.0,Cheque,Faisalabad,Fixed Asset,Refund processed
+TXN-2890,2025-03-07,Bradley Oconnell,Refund,Supplier Refund,97371,0.0,Card,Lahore,Revenue Adjustment,Marketing campaign
+TXN-2891,2025-01-27,Terry Zavala,Expense,Shop Rent,93667,0.0,Cash,Karachi,Administrative Expense,Paid to supplier
+TXN-2892,2025-02-03,Monica Chung,Expense,Staff Salary,50666,0.0,Card,Islamabad,Operating Expense,Monthly bill
+TXN-2893,2025-01-27,Kevin Meza,Asset,Furniture,75182,0.0,Card,Faisalabad,Fixed Asset,Paid to supplier
+TXN-2894,2025-03-03,Kimberly Huber,Asset,Vehicle Purchase,6921,0.0,Bank Transfer,Lahore,Current Asset,Loan installment
+TXN-2895,2025-03-01,David Nichols,Capital,Partner Fund,63691,0.0,Cheque,Islamabad,Equity,Loan installment
+TXN-2896,2025-03-01,Michelle David,Asset,New Machinery,33955,0.0,Bank Transfer,Karachi,Current Asset,Marketing campaign
+TXN-2897,2025-02-11,Amy Chavez,Asset,Shop Inventory,72046,0.0,Card,Islamabad,Fixed Asset,New equipment
+TXN-2898,2025-04-03,Robert Smith,Capital,Owner Investment,6129,0.0,Bank Transfer,Lahore,Equity,Monthly bill
+TXN-2899,2025-02-07,Christine Mcbride,Refund,Supplier Refund,83975,0.0,Cash,Lahore,Revenue Adjustment,New equipment
+TXN-2900,2025-03-07,Julie Miller,Capital,Owner Investment,58349,0.0,Bank Transfer,Faisalabad,Equity,Loan installment
+TXN-2901,2025-04-09,Joshua Johnson,Income,Sugar Sale,83826,14250.42,Cash,Faisalabad,Revenue,Loan installment
+TXN-2902,2025-04-05,Kenneth Lopez,Refund,Customer Refund,96745,0.0,Card,Lahore,Revenue Adjustment,Customer advance
+TXN-2903,2025-03-05,Danielle Charles,Expense,Shop Rent,21200,0.0,Card,Faisalabad,Administrative Expense,Refund processed
+TXN-2904,2025-04-01,Kenneth Davis,Income,Wheat Sale,73218,12447.06,Cheque,Faisalabad,Revenue,Paid to supplier
+TXN-2905,2025-03-19,Mr. Jose Hicks,Asset,Shop Inventory,12836,0.0,Bank Transfer,Lahore,Current Asset,New equipment
+TXN-2906,2025-02-08,Mark Mills,Expense,Supplier Payment,90124,0.0,Card,Islamabad,Administrative Expense,Refund processed
+TXN-2907,2025-02-20,Kimberly Wheeler,Capital,Partner Fund,53055,0.0,Cheque,Karachi,Equity,Marketing campaign
+TXN-2908,2025-04-13,Martin Rush,Refund,Customer Refund,4565,0.0,Bank Transfer,Karachi,Revenue Adjustment,Customer advance
+TXN-2909,2025-01-21,Abigail Mendoza,Asset,Vehicle Purchase,5375,0.0,Cash,Lahore,Fixed Asset,Loan installment
+TXN-2910,2025-02-19,Samantha Castro,Asset,New Machinery,33790,0.0,Bank Transfer,Karachi,Fixed Asset,Loan installment
+TXN-2911,2025-03-31,Christopher Roberts,Expense,Electricity Bill,32479,0.0,Cheque,Faisalabad,Operating Expense,Monthly bill
+TXN-2912,2025-02-04,Allison Anderson,Expense,Shop Rent,62129,0.0,Cash,Karachi,Administrative Expense,Refund processed
+TXN-2913,2025-03-21,Thomas Hebert,Asset,Furniture,61581,0.0,Cheque,Faisalabad,Fixed Asset,Paid to supplier
+TXN-2914,2025-04-12,Amy Coleman,Income,Sugar Sale,1671,284.07,Cheque,Karachi,Revenue,Customer advance
+TXN-2915,2025-04-12,Laura Baker,Capital,Partner Fund,40298,0.0,Bank Transfer,Islamabad,Equity,Refund processed
+TXN-2916,2025-04-13,Mr. Andres Melton DDS,Income,Rice Sale,53162,9037.54,Cheque,Lahore,Revenue,Customer advance
+TXN-2917,2025-01-25,David Navarro,Refund,Supplier Refund,74554,0.0,Cash,Faisalabad,Revenue Adjustment,Customer advance
+TXN-2918,2025-02-07,Amber Smith,Refund,Supplier Refund,87621,0.0,Bank Transfer,Islamabad,Revenue Adjustment,Marketing campaign
+TXN-2919,2025-04-08,Gregg Butler,Asset,Vehicle Purchase,12620,0.0,Cash,Lahore,Fixed Asset,Customer advance
+TXN-2920,2025-03-17,Justin Willis,Capital,Owner Investment,9809,0.0,Cheque,Lahore,Equity,Loan installment
+TXN-2921,2025-02-19,Lisa Riley,Income,Flour Sale,82064,13950.88,Card,Lahore,Revenue,New equipment
+TXN-2922,2025-02-13,Tyler Hoover,Income,Oil Sale,93683,15926.11,Card,Islamabad,Revenue,Refund processed
+TXN-2923,2025-03-13,David Boyd,Asset,Vehicle Purchase,22766,0.0,Bank Transfer,Karachi,Current Asset,Customer advance
+TXN-2924,2025-03-17,Stephanie Jones,Income,Oil Sale,55363,9411.71,Bank Transfer,Karachi,Revenue,Monthly bill
+TXN-2925,2025-03-16,Ms. Sharon Lewis,Capital,Owner Investment,27129,0.0,Cash,Faisalabad,Equity,Loan installment
+TXN-2926,2025-02-08,Marvin Anderson,Liability,Supplier Credit,92719,0.0,Bank Transfer,Karachi,Short-term Liability,Paid to supplier
+TXN-2927,2025-02-27,Hannah Reed,Refund,Supplier Refund,21684,0.0,Bank Transfer,Karachi,Revenue Adjustment,New equipment
+TXN-2928,2025-02-21,William Davis,Asset,Shop Inventory,75612,0.0,Bank Transfer,Lahore,Fixed Asset,Monthly bill
+TXN-2929,2025-03-22,Brady Cabrera,Asset,New Machinery,92584,0.0,Cash,Islamabad,Current Asset,Loan installment
+TXN-2930,2025-02-10,Linda Thomas,Income,Wheat Sale,7365,1252.05,Card,Karachi,Revenue,Paid to supplier
+TXN-2931,2025-03-10,Timothy Wilcox,Refund,Supplier Refund,97033,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,Marketing campaign
+TXN-2932,2025-02-25,Margaret Mason,Refund,Customer Refund,19280,0.0,Card,Karachi,Revenue Adjustment,Loan installment
+TXN-2933,2025-04-12,Christian Peters,Income,Wheat Sale,90352,15359.84,Cheque,Faisalabad,Revenue,Paid to supplier
+TXN-2934,2025-01-23,Eric Fischer,Expense,Staff Salary,41235,0.0,Card,Lahore,Administrative Expense,Refund processed
+TXN-2935,2025-03-20,Brandon Hudson,Income,Oil Sale,45123,7670.91,Card,Islamabad,Revenue,Paid to supplier
+TXN-2936,2025-04-13,Brandon Smith,Income,Wheat Sale,34260,5824.2,Card,Lahore,Revenue,Refund processed
+TXN-2937,2025-01-18,Cassandra Wright,Income,Rice Sale,94014,15982.38,Cheque,Faisalabad,Revenue,Monthly bill
+TXN-2938,2025-02-21,Vicki Marshall,Income,Oil Sale,82935,14098.95,Card,Faisalabad,Revenue,Marketing campaign
+TXN-2939,2025-04-03,Morgan Johnson,Expense,Marketing,59950,0.0,Cheque,Karachi,Administrative Expense,Marketing campaign
+TXN-2940,2025-02-26,Mrs. Paige Wiggins MD,Refund,Customer Refund,83520,0.0,Bank Transfer,Karachi,Revenue Adjustment,Monthly bill
+TXN-2941,2025-02-23,Jeffery Brown,Capital,Owner Investment,8838,0.0,Bank Transfer,Faisalabad,Equity,Loan installment
+TXN-2942,2025-01-22,Brent Gardner,Asset,Shop Inventory,82324,0.0,Cheque,Karachi,Fixed Asset,New equipment
+TXN-2943,2025-03-01,Andrew Wilson,Expense,Staff Salary,91415,0.0,Card,Lahore,Administrative Expense,Marketing campaign
+TXN-2944,2025-03-15,Destiny Sanchez,Refund,Customer Refund,60199,0.0,Bank Transfer,Faisalabad,Revenue Adjustment,New equipment
+TXN-2945,2025-02-12,Lisa Hammond,Capital,Partner Fund,13233,0.0,Bank Transfer,Karachi,Equity,Monthly bill
+TXN-2946,2025-03-06,Zachary Roberts,Capital,Shareholder Equity,47310,0.0,Cash,Karachi,Equity,Customer advance
+TXN-2947,2025-03-09,Ann Mitchell,Liability,Utility Bill Due,76097,0.0,Cash,Lahore,Short-term Liability,Monthly bill
+TXN-2948,2025-01-23,Mary Perry,Refund,Customer Refund,78376,0.0,Card,Faisalabad,Revenue Adjustment,Refund processed
+TXN-2949,2025-03-24,Erica Martinez,Expense,Supplier Payment,37286,0.0,Cash,Islamabad,Administrative Expense,Refund processed
+TXN-2950,2025-03-02,Lauren Sanders,Income,Rice Sale,14159,2407.03,Cheque,Faisalabad,Revenue,Customer advance
+TXN-2951,2025-04-02,Dr. Robert Barnes PhD,Income,Wheat Sale,81572,13867.24,Cash,Faisalabad,Revenue,Paid to supplier
+TXN-2952,2025-03-24,Rachel Warren,Income,Oil Sale,99666,16943.22,Card,Lahore,Revenue,Monthly bill
+TXN-2953,2025-01-29,Parker Moore,Asset,Furniture,13741,0.0,Card,Lahore,Fixed Asset,Customer advance
+TXN-2954,2025-02-03,Mary Garcia,Capital,Owner Investment,66741,0.0,Card,Lahore,Equity,Paid to supplier
+TXN-2955,2025-03-07,Marie Garrison,Expense,Shop Rent,1803,0.0,Cheque,Karachi,Administrative Expense,Refund processed
+TXN-2956,2025-03-30,Joshua Coleman,Capital,Shareholder Equity,25983,0.0,Card,Lahore,Equity,Loan installment
+TXN-2957,2025-01-23,Charlotte Duncan,Expense,Staff Salary,76030,0.0,Cheque,Lahore,Administrative Expense,Customer advance
+TXN-2958,2025-03-04,Heather Grimes,Income,Wheat Sale,53385,9075.45,Cash,Islamabad,Revenue,Monthly bill
+TXN-2959,2025-04-06,Elizabeth Fitzpatrick,Liability,Tax Payable,4622,0.0,Cheque,Islamabad,Long-term Liability,Refund processed
+TXN-2960,2025-02-15,Colleen Daniels,Capital,Shareholder Equity,50517,0.0,Cheque,Lahore,Equity,Loan installment
+TXN-2961,2025-03-04,Christopher Castro,Refund,Customer Refund,64015,0.0,Card,Karachi,Revenue Adjustment,Loan installment
+TXN-2962,2025-02-20,Thomas Arroyo,Expense,Shop Rent,53403,0.0,Cheque,Islamabad,Operating Expense,Loan installment
+TXN-2963,2025-04-04,John Bell,Liability,Supplier Credit,54157,0.0,Cash,Faisalabad,Long-term Liability,Loan installment
+TXN-2964,2025-02-22,Miguel Hernandez,Expense,Supplier Payment,9304,0.0,Bank Transfer,Karachi,Administrative Expense,Paid to supplier
+TXN-2965,2025-04-07,Jason Graves,Income,Rice Sale,60495,10284.15,Cheque,Lahore,Revenue,Monthly bill
+TXN-2966,2025-03-08,Ralph Murillo,Liability,Tax Payable,8791,0.0,Cheque,Faisalabad,Long-term Liability,New equipment
+TXN-2967,2025-02-19,Kathryn Bryant,Refund,Supplier Refund,84968,0.0,Cheque,Faisalabad,Revenue Adjustment,Monthly bill
+TXN-2968,2025-01-26,Gregory Cox,Asset,New Machinery,802,0.0,Cheque,Faisalabad,Fixed Asset,Loan installment
+TXN-2969,2025-02-08,Jennifer Chen,Income,Flour Sale,96552,16413.84,Cash,Karachi,Revenue,Refund processed
+TXN-2970,2025-04-12,Nicole Snyder,Refund,Customer Refund,32427,0.0,Card,Faisalabad,Revenue Adjustment,Marketing campaign
+TXN-2971,2025-02-09,Jeffrey Mcgrath,Liability,Supplier Credit,81620,0.0,Cheque,Islamabad,Short-term Liability,Customer advance
+TXN-2972,2025-01-31,Jordan Fowler,Income,Wheat Sale,2118,360.06,Card,Faisalabad,Revenue,Customer advance
+TXN-2973,2025-04-07,Amy Giles,Liability,Supplier Credit,32096,0.0,Bank Transfer,Lahore,Long-term Liability,Refund processed
+TXN-2974,2025-04-11,James Fowler,Income,Oil Sale,52829,8980.93,Cash,Lahore,Revenue,Monthly bill
+TXN-2975,2025-02-09,Patricia Green,Expense,Shop Rent,66043,0.0,Cheque,Lahore,Administrative Expense,Customer advance
+TXN-2976,2025-02-15,Jonathan Norton,Asset,Furniture,47467,0.0,Cheque,Karachi,Fixed Asset,New equipment
+TXN-2977,2025-04-07,Robert Ball,Income,Flour Sale,61340,10427.8,Bank Transfer,Lahore,Revenue,Refund processed
+TXN-2978,2025-02-12,Alexis George,Capital,Partner Fund,14876,0.0,Card,Islamabad,Equity,Marketing campaign
+TXN-2979,2025-02-13,Thomas Dennis,Asset,Furniture,74145,0.0,Cash,Faisalabad,Fixed Asset,Paid to supplier
+TXN-2980,2025-02-20,Timothy Brown,Liability,Bank Loan,62903,0.0,Cheque,Islamabad,Long-term Liability,Loan installment
+TXN-2981,2025-01-27,Morgan Torres,Income,Oil Sale,65256,11093.52,Card,Lahore,Revenue,Marketing campaign
+TXN-2982,2025-04-15,Andrew Dixon,Expense,Electricity Bill,56262,0.0,Cheque,Islamabad,Operating Expense,New equipment
+TXN-2983,2025-04-13,Amber Ballard,Liability,Bank Loan,67123,0.0,Cash,Lahore,Short-term Liability,Monthly bill
+TXN-2984,2025-03-19,Andrew Rodriguez,Refund,Customer Refund,62680,0.0,Card,Islamabad,Revenue Adjustment,Paid to supplier
+TXN-2985,2025-02-22,Paul Day,Refund,Supplier Refund,984,0.0,Cash,Lahore,Revenue Adjustment,Marketing campaign
+TXN-2986,2025-03-02,Patrick Baird,Liability,Supplier Credit,36204,0.0,Bank Transfer,Karachi,Short-term Liability,Monthly bill
+TXN-2987,2025-02-17,Anthony Wells,Expense,Supplier Payment,37585,0.0,Cash,Islamabad,Operating Expense,Marketing campaign
+TXN-2988,2025-02-21,Karl Gonzalez,Refund,Supplier Refund,27334,0.0,Bank Transfer,Lahore,Revenue Adjustment,Monthly bill
+TXN-2989,2025-02-21,Justin Mitchell,Asset,Vehicle Purchase,40459,0.0,Bank Transfer,Karachi,Current Asset,New equipment
+TXN-2990,2025-03-02,Wendy Chen,Expense,Electricity Bill,84453,0.0,Cash,Lahore,Operating Expense,Monthly bill
+TXN-2991,2025-01-31,Denise Gomez,Expense,Electricity Bill,86938,0.0,Bank Transfer,Karachi,Operating Expense,Refund processed
+TXN-2992,2025-03-24,Chad Hickman,Expense,Staff Salary,75392,0.0,Card,Lahore,Operating Expense,Monthly bill
+TXN-2993,2025-03-27,Eric Flores,Asset,New Machinery,59939,0.0,Bank Transfer,Lahore,Current Asset,Customer advance
+TXN-2994,2025-01-30,Russell George,Liability,Bank Loan,13341,0.0,Cheque,Islamabad,Short-term Liability,Customer advance
+TXN-2995,2025-02-04,Matthew Brown,Income,Wheat Sale,25195,4283.15,Cheque,Lahore,Revenue,Refund processed
+TXN-2996,2025-02-15,James Garcia,Expense,Staff Salary,88208,0.0,Bank Transfer,Lahore,Operating Expense,Refund processed
+TXN-2997,2025-02-13,James Williams,Income,Sugar Sale,15365,2612.05,Card,Karachi,Revenue,Loan installment
+TXN-2998,2025-03-12,Anthony Cuevas,Asset,Shop Inventory,13261,0.0,Bank Transfer,Islamabad,Fixed Asset,Monthly bill
+TXN-2999,2025-01-29,Heather Bentley,Expense,Shop Rent,68549,0.0,Cheque,Lahore,Operating Expense,Refund processed

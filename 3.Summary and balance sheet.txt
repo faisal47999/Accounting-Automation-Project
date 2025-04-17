@@ -1,0 +1,23 @@
+=== Accounting Summary ===
+Income: PKR 9051834
+Expense: PKR 8204069
+Profit: PKR 847765
+Capital: PKR 17323231
+Assets: PKR 6739789
+Liabilities: PKR 7711292
+Tax: PKR 1538811.78
+
+
+
+
+
+=== Balance Sheet ===
+Assets:
+  Total Assets: PKR 6739789
+Liabilities:
+  Total Liabilities: PKR 7711292
+Equity:
+  Capital: PKR 17323231
+  Retained Earnings (Profit): PKR 847765
+  Total Equity: PKR 18170996
+Balance Check: Assets (PKR 6739789) = Liabilities + Equity (PKR 25882288)
